@@ -4,12 +4,26 @@ layout: default
 bodyClass: "page-contact"
 ---
 
-<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+<div class="intro pb-0">
+    <div class="container">
+      <div class="row justify-content-start">
+        <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+            <h1 class="title">{{page.title}}</h1>
+            {% include call.html show_button=false show_accident_button=true %}
+        </div>
+        {% if page.intro_image %}
+        <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative container-header">
+          <img alt="{{ page.title }}" class="intro-image" src="{{ page.intro_image | relative_url }}" />
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+<div class="container pb-6 pb-md-10">
     <div class="row justify-content-start">
         <div class="col-12 col-md-8">
             <div class="service service-single">
-                <h1 class="title">{{page.title}}</h1>
-                {% include call.html show_button=false show_accident_button=true %}
                 <div class="content mt-4">{{content}}</div>
             </div>
         </div>

@@ -31,3 +31,5 @@ Den Verkauf und die Reparatur von Landmaschinen haben wir eingestellt. Bei uns b
 
 ### Ihr Ansprechpartner
 {% include contact-person.html contact='Bartholomäus Eder' %}
+
+{% include contact-person.html contact='Peter Grünwald' %}

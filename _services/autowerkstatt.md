@@ -14,7 +14,7 @@ Diagnosegeräte und Spezialwerkzeuge sowie erfahrene und bestens ausgebildete Sp
 
 Wer sein Fahrzeug regelmäßig wartet, der hat auch lange Freude damit.
 
-## Karosseriezentrum
+## [Karosseriezentrum](../karosseriezentrum)
 
 Wir kümmern uns auch im Falle eines Blechschadens um Ihr Auto. Unsere erfahrenen Karosserietechniker werden dank moderner und effizienter Reparaturmethoden höchsten Ansprüchen gerecht.
 
