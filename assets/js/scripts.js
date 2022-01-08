@@ -4,6 +4,7 @@ var menuContainer = document.querySelector('#main-menu-mobile');
 var buttonSendSms = document.querySelector('#button-send-sms');
 var buttonSendEmail = document.querySelector('#button-send-email');
 var termForm = document.querySelector('#term-form');
+var inputDate = document.querySelector('#Datum');
 
 menuTrigger.onclick = function() {
     menuContainer.classList.toggle('open');
@@ -16,8 +17,7 @@ buttonSendSms.onclick = function() {
     if (message === null) {
         showFillFormAlert();
     } else {
-        // TODO: Test this
-        window.open('sms://+436243229841?body=' + message);
+        window.open('sms://+436243229841/&body=' + message);
     }
 }
 
@@ -59,3 +59,25 @@ getTextForMessage = function() {
     }
     return output;
 }
+
+setMinDate = function() {
+    var today = new Date();
+    var dayInFuture = new Date(today);
+    dayInFuture.setDate(dayInFuture.getDate() + 3);
+    var dd = dayInFuture.getDate();
+    var mm = dayInFuture.getMonth() + 1;
+    var yyyy = dayInFuture.getFullYear();
+
+    if (dd < 10){
+        dd = '0' + dd
+    }
+    if (mm < 10){
+        mm = '0' + mm
+    }
+
+    var minDate = yyyy + '-' + mm + '-' + dd;
+    inputDate.setAttribute("min", minDate);
+    return Date.now();
+}
+
+window.onload = setMinDate;

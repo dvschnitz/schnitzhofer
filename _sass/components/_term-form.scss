@@ -56,4 +56,14 @@
       display: inline-block;
     }
   }
+
+  input:invalid {
+    border-bottom: 1px solid #f88379;
+    &+span:after {
+      position: absolute;
+      content: '✖';
+      padding-left: 5px;
+      color: ''
+    }
+  }
 }

@@ -9,6 +9,8 @@ intro_image: "images/photos/dellen.jpg"
 ## Ihr Fahrzeug in besten Händen in unserem Karosseriezentrum
 Das modernste Karosseriezentrum im Tennengau. Hier sorgen unsere Spezialisten mithilfe moderner, umweltfreundlicher und effizienter Methoden dafür, dass Ihr Fahrzeug nach einem Blechschaden wieder in neuem Glanz erstrahlt. Karosseriezentrum Schnitzhofer – Ihr Spezialist für Autoinstandsetzungen.
 
+<a class="button button-primary" href="{{ "servicetermin" | relative_url }}">Termin Buchen</a>
+
 ## Fahrzeuglackierung
 Wir sorgen in unserer Autolackiererei für ein perfektes Lackierergebnis. Unsere neue Lackierkabine bietet dank effizientem Lüftungssystem und extra heller Beleuchtung ideale Rahmenbedingungen für ein perfektes Ergebnis. Für eine nochmals verbesserte Farbtonfindung haben wir ein spezielles Messgerät angeschafft. Dieses ermöglicht es, innerhalb kürzester Zeit den passenden Farbton zu treffen. Mithilfe des umfangreichen Basislacklagers kann so mithilfe einer modernen Lackmischanlage umgehend der richtige Farbton hergestellt und anschließend in der Lackierkabine am Fahrzeug aufgetragen werden.
 

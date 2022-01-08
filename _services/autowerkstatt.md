@@ -10,6 +10,8 @@ intro_image: "images/photos/autowerkstatt.jpg"
 
 Diagnosegeräte und Spezialwerkzeuge sowie erfahrene und bestens ausgebildete Spezialisten kümmern sich in unserer Autowerkstatt um Ihr Auto
 
+<a class="button button-primary" href="{{ "servicetermin" | relative_url }}">Termin Buchen</a>
+
 ## Service und Reparatur
 
 Wer sein Fahrzeug regelmäßig wartet, der hat auch lange Freude damit.
