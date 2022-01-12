@@ -17,7 +17,7 @@ buttonSendSms.onclick = function() {
     if (message === null) {
         showFillFormAlert();
     } else {
-        window.open('sms://+436243229841/&body=' + message);
+        window.open('sms://+436607785494/&body=' + message);
     }
 }
 
