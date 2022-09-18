@@ -12,21 +12,34 @@ menuTrigger.onclick = function() {
     body.classList.toggle('lock-scroll')
 }
 
+<<<<<<< HEAD
 buttonSendSms.onclick = function() {
     var message = getTextForMessage();
     if (message === null) {
         showFillFormAlert();
     } else {
         window.open('sms://+436607785494/&body=' + message);
+=======
+if (buttonSendSms != null) {
+    buttonSendSms.onclick = function() {
+        var message = getTextForMessage();
+        if (message === null) {
+            showFillFormAlert();
+        } else {
+            window.open('sms://+436243229841/&body=' + message);
+        }
+>>>>>>> f79b02d2d0c66bfd23b949350b17b5604c46f30f
     }
 }
 
-buttonSendEmail.onclick = function() {
-    var message = getTextForMessage();
-    if (message === null) {
-        showFillFormAlert();
-    } else {
-        window.open('mailto:info@schnitzhofer.at?subject=Terminanfrage über schnitzhofer.at&body=' + message);
+if (buttonSendEmail != null) {
+    buttonSendEmail.onclick = function() {
+        var message = getTextForMessage();
+        if (message === null) {
+            showFillFormAlert();
+        } else {
+            window.open('mailto:info@schnitzhofer.at?subject=Terminanfrage über schnitzhofer.at&body=' + message);
+        }
     }
 }
 
@@ -76,7 +89,9 @@ setMinDate = function() {
     }
 
     var minDate = yyyy + '-' + mm + '-' + dd;
-    inputDate.setAttribute("min", minDate);
+    if (inputDate != null) {
+        inputDate.setAttribute("min", minDate);
+    }
     return Date.now();
 }
 
