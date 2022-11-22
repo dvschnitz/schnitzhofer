@@ -21,13 +21,9 @@ Unser Unternehmen hat zum Schutz Ihrer Daten geeignete technische und organisato
 
 Personenbezogene Daten werden von uns nur gemäß den jeweils geltenden datenschutzrechtlichen Bestimmungen verarbeitet. Wenn Sie mit uns korrespondieren oder ein Formular auf unserer Webseite mit Daten befüllen, nehmen Sie zur Kenntnis, dass die von Ihnen im jeweiligen Formular angegebenen Daten zu den unten beschriebenen Zwecken (siehe Punkt 4 und 5) verarbeitet werden.
 
-#### 2.2. Von uns erhobene Daten
-
-Wenn Sie unsere Webseite besuchen, werden durch Cookies personenbezogene Daten technisch automatisiert erfasst. Nähere Informationen über Cookies, die auf unserer Webseite zum Einsatz kommen, finden Sie unter Punkt 6.
-
 ### 3. Partner
 
-Wir führen nicht sämtliche Verarbeitungen personenbezogener Daten selbst durch, sondern haben Unterstützung von professionellen Partnern, namentlich der Vector Software Datenverarbeitung GmbH mit Sitz in 1020 Wien, der A1 Telekom Austria AG mit Sitz in 1020 Wien und der Newsletter2Go GmbH mit Sitz 10179 Berlin (Deutschland), Cloudflare Inc. mit Sitz in San Francisco (USA), Loco Soft GmbH Austria, Ford Motor Company Austria GmbH, Opel Austria GmbH, Suzuki Austria Handelsgesellschaft mbH, AutoScout24 AS GmbH, A-1010 Wien  welche im Auftrag der Josef Schnitzhofer GmbH tätig werden.
+Wir führen nicht sämtliche Verarbeitungen personenbezogener Daten selbst durch, sondern haben Unterstützung von professionellen Partnern, namentlich der Vector Software Datenverarbeitung GmbH mit Sitz in 1020 Wien und der A1 Telekom Austria AG mit Sitz in 1020 Wien, Netlify Inc.mit Sitz in San Francisco (USA), Loco Soft GmbH Austria, Ford Motor Company Austria GmbH, Opel Austria GmbH, Suzuki Austria Handelsgesellschaft mbH, AutoScout24 AS GmbH, A-1010 Wien  welche im Auftrag der Josef Schnitzhofer GmbH tätig werden.
 
 Die Partner wurden sorgfältig ausgewählt und sorgen durch geeignete technische und organisatorische Maßnahmen dafür, dass die Verarbeitung Ihrer Daten im Einklang mit den datenschutzrechtlichen Vorgaben erfolgt und die Wahrung Ihrer Rechte gewährleistet ist. Es ist den Partnern nicht gestattet, die überlassenen personenbezogenen Daten für eigene oder werbliche Zwecke zu nutzen oder an Dritte weiterzugeben.
 
@@ -48,17 +44,6 @@ Die bei der jeweiligen Anmeldung angegebenen Daten (Titel, Name, E-Mailadesse) w
 Zweck: Zusendung von Informationen über Produkte, Dienstleistungen und Veranstaltungen.
 Rechtfertigung: Einwilligung.
 Speicherdauer: Solange der Newsletter versendet wird und kein Widerruf erfolgt.
-
-#### Prospektbestellung (Postversand)
-
-Kontaktformular (Kataloge/Preise): Bei Absenden des Kontaktformulars werden Ihre personenbezogenen Daten der Kontaktfelder verarbeitet.
-Zweck: Zusendung von Informationen über Produkte, Dienstleistungen und Veranstaltungen.
-Rechtfertigung: Einwilligung bzw. berechtigtes Interesse.
-Speicherdauer: Bis zur erfolgten Zusendung oder bis zum Widerruf der Einwilligung innerhalb des Bearbeitungszeitraums.
-
-#### Datenweitergabe zur Vertragserfüllung
-
-Zur Vertragserfüllung geben wir, wenn notwendig, Ihre Daten an das mit der Lieferung beauftragte Unternehmen weiter, soweit dies zur Lieferung bestellter Waren erforderlich ist. Je nach dem, welchen Zahlungsdienstleister Sie im Bestellprozess auswählen, geben wir zur Abwicklung von Zahlungen die hierfür erhobenen Zahlungsdaten an das mit der Zahlung beauftragte Kreditinstitut und ggf. von uns beauftragte Zahlungsdienstleister weiter bzw. an den ausgewählten Zahlungsdienst. Zum Teil erheben die ausgewählten Zahlungsdienstleister diese Daten auch selbst, soweit Sie dort ein Konto anlegen. In diesem Fall müssen Sie sich im Bestellprozess mit Ihren Zugangsdaten bei dem Zahlungsdienstleister anmelden. Es gilt insoweit die Datenschutzerklärung des jeweiligen Zahlungsdienstleisters.
 
 ### 5. Ihre Rechte
 

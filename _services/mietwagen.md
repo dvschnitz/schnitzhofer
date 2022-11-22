@@ -22,7 +22,7 @@ Sie möchten es gerne bequemer? Gegen Aufpreis bringen wir Ihnen den Mietwagen b
 | **ELEKTRO&shy;FAHRZEUG** <img src="{{ 'images/cars/leih-mustang.jpg' | relative_url }}" alt="Swift"/> | Ford Mustang Mach E, Opel Zafira E / Mokka E, Suzuki A-Cross PHEV | **ab € 69,-** |
 
 ## Ihre Ansprechpartnerin für Mietwagen
-{% include contact-person.html contact='Alexandra Kranebitter' %}
+{% include contact-person.html contact='Michaela Krallinger' %}
 ## Unsere Mietwagen sind inklusive
 * Vollkaskoversicherung
 * Autobahnvignette

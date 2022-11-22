@@ -7,14 +7,14 @@ intro_image: 'images/photos/contact.jpg'
 
 ## Öffnungszeiten
 
-| Tag       | Verkauf      | Werkstatt    | Ersatzteile |
-| --------- | ------------ | ------------ | -------------------------------|
-| Montag    | 8:00 - 17:30 | 7:45 - 16:30 | 7:45 - 17:00                   |
-| Dienstag  | 8:00 - 17:30 | 7:45 - 16:30 | 7:45 - 17:00                   |
-| Mittwoch  | 8:00 - 17:30 | 7:45 - 16:30 | 7:45 - 17:00                   |
-| Donnerstag| 8:00 - 17:30 | 7:45 - 16:30 | 7:45 - 17:00                   |
-| Freitag   | 8:00 - 17:30 | 7:45 - 16:30 | 7:45 - 17:00                   |
-| Samstag   | 9:00 - 12:00 | Geschlossen  |  Geschlossen                   |
+| Tag       | Verkauf                   | Werkstatt    |
+| --------- | ------------------------- | ------------ |
+| Montag    | 7:45 - 12:00 und 13:00 - 17:00 | 7:45 - 12:00 und 13:00 - 16:30 |
+| Dienstag  | 7:45 - 12:00 und 13:00 - 17:00 | 7:45 - 12:00 und 13:00 - 16:30 |
+| Mittwoch  | 7:45 - 12:00 und 13:00 - 17:00 | 7:45 - 12:00 und 13:00 - 16:30 |
+| Donnerstag| 7:45 - 12:00 und 13:00 - 17:00 | 7:45 - 12:00 und 13:00 - 16:30 |
+| Freitag   | 7:45 - 12:00 und 13:00 - 17:00 | 7:45 - 12:00 und 13:00 - 16:30 |
+| Samstag   | Vormittag nach Vereinbarung | Geschlossen |
 
 
 ## Anfahrt
