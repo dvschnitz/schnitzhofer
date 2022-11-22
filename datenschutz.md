@@ -21,6 +21,10 @@ Unser Unternehmen hat zum Schutz Ihrer Daten geeignete technische und organisato
 
 Personenbezogene Daten werden von uns nur gemäß den jeweils geltenden datenschutzrechtlichen Bestimmungen verarbeitet. Wenn Sie mit uns korrespondieren oder ein Formular auf unserer Webseite mit Daten befüllen, nehmen Sie zur Kenntnis, dass die von Ihnen im jeweiligen Formular angegebenen Daten zu den unten beschriebenen Zwecken (siehe Punkt 4 und 5) verarbeitet werden.
 
+#### 2.2. Von uns erhobene Daten
+
+Wenn Sie unsere Webseite besuchen, werden durch Cookies personenbezogene Daten technisch automatisiert erfasst. Nähere Informationen über Cookies, die auf unserer Webseite zum Einsatz kommen, finden Sie unter Punkt 6.
+
 ### 3. Partner
 
 Wir führen nicht sämtliche Verarbeitungen personenbezogener Daten selbst durch, sondern haben Unterstützung von professionellen Partnern, namentlich der Vector Software Datenverarbeitung GmbH mit Sitz in 1020 Wien und der A1 Telekom Austria AG mit Sitz in 1020 Wien, Netlify Inc.mit Sitz in San Francisco (USA), Loco Soft GmbH Austria, Ford Motor Company Austria GmbH, Opel Austria GmbH, Suzuki Austria Handelsgesellschaft mbH, AutoScout24 AS GmbH, A-1010 Wien  welche im Auftrag der Josef Schnitzhofer GmbH tätig werden.
