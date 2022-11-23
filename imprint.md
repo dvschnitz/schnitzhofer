@@ -7,6 +7,8 @@ permalink: "/impressum/"
 
 Firmenname: Josef Schnitzhofer GmbH
 
+Geschäftsführer: Josef Schnitzhofer
+
 Adresse: Markt 191, 5441 Abtenau, Österreich
 
 UID-Nummer: ATU36786206
