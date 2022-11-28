@@ -19,13 +19,15 @@ Rechtsform: Gesellschaft mit beschränkter Haftung (GmbH)
 
 Telefon: <a href="tel:+4362432298">+43 (0) 6243 / 2298</a>
 
-E-Mail: <a href="mailto:office@schnitzhofer.at">office@schnitzhofer.at</a>
+E-Mail: <a href="mailto:info@schnitzhofer.at">info@schnitzhofer.at</a>
 
 Fax: +43 (0) 6243 / 2298 - 9
 
 Gerichtsstand: Hallein
 
 Sitz der Gesellschaft: Abtenau
+
+Fotos: Alexander Bareiner <a href="absolutMedia.at">absolutMedia.at<a> und Schnitzhofer
 
 ### Haftungsausschluss
 

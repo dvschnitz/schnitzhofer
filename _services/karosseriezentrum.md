@@ -3,7 +3,7 @@ title: "Karosserie&shy;zentrum"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2
-intro_image: "images/photos/dellen.jpg"
+intro_image: "images/photos/lackieren.jpg"
 ---
 
 ## Ihr Fahrzeug in besten Händen in unserem Karosseriezentrum
@@ -15,10 +15,14 @@ Das modernste Karosseriezentrum im Tennengau. Hier sorgen unsere Spezialisten mi
 Wir sorgen in unserer Autolackiererei für ein perfektes Lackierergebnis. Unsere neue Lackierkabine bietet dank effizientem Lüftungssystem und extra heller Beleuchtung ideale Rahmenbedingungen für ein perfektes Ergebnis. Für eine nochmals verbesserte Farbtonfindung haben wir ein spezielles Messgerät angeschafft. Dieses ermöglicht es, innerhalb kürzester Zeit den passenden Farbton zu treffen. Mithilfe des umfangreichen Basislacklagers kann so mithilfe einer modernen Lackmischanlage umgehend der richtige Farbton hergestellt und anschließend in der Lackierkabine am Fahrzeug aufgetragen werden.
 
 ## Karosserieinstandsetzung
+<img src="{{ 'images/photos/karosserie.jpg' | relative_url }}" alt="Karosserieinstandsetzung"/>
 Zum besseren Schutz der Insassen sind moderne Karosserien heute aus verschiedensten hochfesten und ultrahochfesten Stahllegierungen hergestellt. Diese bieten höchstmögliche Sicherheit im Falle eines Aufpralls, erfordern aber umfangreiches Wissen und modernste Reparaturmethoden.
 
+
 ## Professionelle Dellenbeseitigung ohne Lackierung
+<img src="{{ 'images/photos/dellen.jpg' | relative_url }}" alt="Dellenbeseitigung"/>
 Kleine Delle und großer Ärger? Hagelschaden Auto? In unserem hochmodernen Karosseriezentrum kümmern wir uns um Ihr Fahrzeug. Außerdem sind wir Spezialisten im Dellendrücken. Wegen spezieller Werkzeuge und erfahrener Mitarbeiter „massieren“ wir die Dellen im Blechkleid Ihres Fahrzeuges auf umweltfreundliche und kostengünstige Weise heraus. Weitere Anwendungen des Dellendrückens sind Dellen durch Dachlawinen, Eiszapfen, Fallobst oder Kastanien. Ebenfalls möglich ist das Dellendrücken bei Parkremplern wenn der Lack keine Beschädigung aufweist.
+
 
 ### Gute Gründe: Umweltfreundlich und preiswert
 

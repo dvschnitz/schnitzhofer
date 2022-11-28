@@ -6,12 +6,20 @@
           {% if site.data.social %}
             {% include social.html %}
           {% endif %}
-          {% if site.data.seo.copyright_text %}
-          <div class="copyright">
-            {{ site.data.seo.copyright_text }}
-            {% if site.data.seo.opening_hours %} | <a href="{{"contact"| relative_url }}">{{ site.data.seo.opening_hours }}</a>{% endif %}
+
+          <div>
+            {% if site.data.seo.copyright_text %}
+            <div class="copyright">
+              {{ site.data.seo.copyright_text }}
+            </div>
+            {% endif %}
+
+            {% if site.data.seo.opening_hours %}
+              <a class="opening-hours"
+                href="{{"contact"| relative_url }}">{{ site.data.seo.opening_hours }}</a>
+            {% endif %}
           </div>
-          {% endif %}
+
         </div>
       </div>
     </div>

@@ -44,7 +44,7 @@ Speicherdauer: 12 Monate
 
 #### Anmeldung zum Newsletter
 
-Die bei der jeweiligen Anmeldung angegebenen Daten (Titel, Name, E-Mailadesse) werden nur für den Versand des Newsletters verwendet. Zum Versand des Newsletters verwenden wir die von Ihnen angegebene E-Mail-Adresse und benötigen anschließend Ihre Bestätigung, dass Sie, als Inhaber der E-Mail-Adresse, mit dem Empfang einverstanden sind (sog. Double Opt-In). Sie können das Abonnement jederzeit über die im Newsletter vorgesehene Abmeldemöglichkeit oder unter office@schnitzhofer.at
+Die bei der jeweiligen Anmeldung angegebenen Daten (Titel, Name, E-Mailadesse) werden nur für den Versand des Newsletters verwendet. Zum Versand des Newsletters verwenden wir die von Ihnen angegebene E-Mail-Adresse und benötigen anschließend Ihre Bestätigung, dass Sie, als Inhaber der E-Mail-Adresse, mit dem Empfang einverstanden sind (sog. Double Opt-In). Sie können das Abonnement jederzeit über die im Newsletter vorgesehene Abmeldemöglichkeit oder unter info@schnitzhofer.at
 Zweck: Zusendung von Informationen über Produkte, Dienstleistungen und Veranstaltungen.
 Rechtfertigung: Einwilligung.
 Speicherdauer: Solange der Newsletter versendet wird und kein Widerruf erfolgt.
