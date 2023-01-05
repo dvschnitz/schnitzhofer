@@ -15,20 +15,20 @@ Sie möchten es gerne bequemer? Gegen Aufpreis bringen wir Ihnen den Mietwagen b
 
 | KATEGORIE | MODELL       | PREIS PRO TAG |
 | :---------: | ------------ | ------------:  |
-| **KLEINWAGEN** <img src="{{ 'images/cars/leih-swift.jpg' | relative_url }}" alt="Swift"/> | Ford Fiesta / Puma, Opel Corsa / Mokka, Suzuki Ignis / Swift | **€ 49,-** |
-| **FAMILIENWAGEN** <img src="{{ 'images/cars/leih-focus.png' | relative_url }}" alt="Focus"/> | Ford Focus Turnier / Kuga, Opel Astra, Suzuki Swace       | **€ 69,-** |
-| **BUS** mit 8 oder 9 Sitzen <img src="{{ 'images/cars/leih-zafira.jpg' | relative_url }}" alt="Zafira"/> | Ford Tourneo Custom, Opel Zafira              | **€ 109,-** |
-| **TRANSPORTER** <img src="{{ 'images/cars/leih-transit.jpg' | relative_url }}" alt="Swift"/> | Ford Transit Custom L1H1                                  | **€ 59,-** |
-| **ELEKTRO&shy;FAHRZEUG** <img src="{{ 'images/cars/leih-mustang.jpg' | relative_url }}" alt="Swift"/> | Ford Mustang Mach E, Opel Zafira E / Mokka E, Suzuki A-Cross PHEV | **ab € 69,-** |
+| **KLEINWAGEN** <img src="{{ 'images/cars/leih-swift.jpg' | relative_url }}" alt="Swift"/> | Ford Fiesta / Puma, Opel Corsa / Mokka, Suzuki Ignis / Swift | **€ 59,-** |
+| **FAMILIENWAGEN** <img src="{{ 'images/cars/leih-focus.png' | relative_url }}" alt="Focus"/> | Ford Focus Turnier / Kuga, Opel Astra, Suzuki Swace       | **€ 79,-** |
+| **BUS** mit 8 oder 9 Sitzen <img src="{{ 'images/cars/leih-zafira.jpg' | relative_url }}" alt="Zafira"/> | Ford Tourneo Custom, Opel Zafira              | **€ 129,-** |
+| **TRANSPORTER** <img src="{{ 'images/cars/leih-transit.jpg' | relative_url }}" alt="Swift"/> | Ford Transit Custom L1H1                                  | **€ 74,-** |
+| **ELEKTRO&shy;FAHRZEUG** <img src="{{ 'images/cars/leih-mustang.jpg' | relative_url }}" alt="Swift"/> | Ford Mustang Mach E, Opel Zafira E / Mokka E, Suzuki A-Cross PHEV | **ab € 79,-** |
 
 ## Ihre Ansprechpartnerin für Mietwagen
 {% include contact-person.html contact='Michaela Krallinger' %}
 ## Unsere Mietwagen sind inklusive
-* Vollkaskoversicherung
+* Haftpflicht und Vollkasko Versicherung mit € 400,- Selbstbehalt 
 * Autobahnvignette
-* Je nach Saison inklusive Winterreifen
-* 100 km frei pro Tag
-Mehr-Kilometer kosten 0,10 € pro km.
+* Klimaanlage und saisonale Bereifung (Sommer-Winter)
+* 200 km frei pro Tag
+Mehr-Kilometer kosten 0,20 € pro km.
 
 Die Abholung und Rückgabe ist während unserer Öffnungszeiten möglich. Bitte kontaktieren Sie uns, sollte Ihnen das nicht möglich sein.
 
