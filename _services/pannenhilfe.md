@@ -17,13 +17,11 @@ Mit der europaweiten Mobilitätsgarantie von Ford, Opel und Suzuki. Hier die Üb
 
 ### Opel Mobilitätsservice
 
-* in Österreich: <a href="tel:0800208380">0800/20 83 80</a>
-* aus ganz Europa: <a href="tel:004312511919394">0043 1 25 119 19394</a>
+* in Österreich: <a href="tel:0800208380">0800 20 83 80</a>
+* aus ganz Europa: <a href="tel:004318028380">0043 1 802 83 80</a>
 
 ### Suzuki Mobilitätsservice
-
-* in Österreich: <a href="tel:01213256206">01/213 25 62 06</a>
-* aus ganz Europa: <a href="tel:00431213256206">0043 1 213 25 62 06</a>
+* <a href="tel:0043662430400">0043 662 430 400</a>
 
 Details und eventuelle Einschränkungen im finden Sie im Serviceheft Ihres Fahrzeuges.
 
