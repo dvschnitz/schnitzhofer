@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Frühlingsausstellung 2023
+description: Nach einem milden Winter starten wir in Kürze wieder mit voller
+  Energie ins Frühjahr. Deshalb laden wir herzlich zu unserer
+  Frühlingsausstellung am 17. und 18. März ein.
 date: 2023-02-21T07:20:27.608Z
 ---
 # Autoneuheiten bei unserer Frühlingsausstellung

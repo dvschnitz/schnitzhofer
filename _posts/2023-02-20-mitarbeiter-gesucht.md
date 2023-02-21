@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Jobs
+description: Wir wachsen und erweitern unser Team. Daher suchen wir einen/eine
+  A﻿llrounder/in (Voll- oder Teilzeit) zum sofortigen Eintritt.
 date: 2023-02-20T22:02:46.759Z
 ---
 Wir wachsen und erweitern unser Team! 
