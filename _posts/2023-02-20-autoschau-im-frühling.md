@@ -5,6 +5,8 @@ date: 2023-02-21T07:20:27.608Z
 ---
 # Autoneuheiten bei unserer Frühlingsausstellung
 
+![Ford Ranger](/assets/uploads/2023-ranger.jpg "Der neue Ford Ranger feiert Premiere bei unserer Ausstellung.")
+
 Nach einem Winter, der sich relativ oft nach Frühling angefühlt hat, starten wir in Kürze wieder in den echten Frühling. Es ist mir eine Freude, euch nach längerer Pause zu unserer heurigen
 
 ### **Frühlingsausstellung am 17. und 18. März**
