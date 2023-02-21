@@ -57,6 +57,7 @@ $sub-footer-text-color: $white;
 @import "components/social";
 @import "components/term-form";
 @import "components/fonts"; // Uncomment this line to self host font
+@import "components/news";
 
 // Pages
 @import "pages/page-home";
