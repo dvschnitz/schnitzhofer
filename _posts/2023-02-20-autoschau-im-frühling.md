@@ -14,14 +14,14 @@ Deshalb laden wir herzlich zu unserer
 
 ein.
 
-Das neue Jahr hat für uns personelle Verstärkung gebracht. Florian Posch verstärkt uns seit Jänner als Kundenberater im Verkauf und freut sich auf ein persönliches Kennenler-nen.
+Das neue Jahr hat für uns personelle Verstärkung gebracht. Florian Posch verstärkt uns seit Jänner als Kundenberater im Verkauf und freut sich auf ein persönliches Kennenlernen.
 
 Auf ein Kennenlernen freuen sich auch unsere Modellneuheiten: Ford Ranger, Suzuki
 S-Cross und Opel Astra. 
 
 Erfahrt die Vielfalt unserer Elektromodelle vor Ort: vom kleinen Opel Corsa und Mokka über den Ford Mustang Mach-E bis zum neuen Ford E-Transit. 
 
-Natürlich sind auch Diesel, Benzin und Hybrid nach wie vor aktuell und bei der Ausstellung erlebbar: Ford Tourneo Connect, das Geburtstagskind Suzuki Vitara, S-Cross, Jimny so-wie zahlreiche Gebrauchtwagen und Vorführer. 
+Natürlich sind auch Diesel, Benzin und Hybrid nach wie vor aktuell und bei der Ausstellung erlebbar: Ford Tourneo Connect, das Geburtstagskind Suzuki Vitara, S-Cross, Jimny sowie zahlreiche Gebrauchtwagen und Vorführer. 
 
 Für jeden Bedarf sollte etwas dabei sein.
 
