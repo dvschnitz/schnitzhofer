@@ -7,18 +7,24 @@ date: 2023-02-21T07:20:27.608Z
 
 ![Ford Ranger](/assets/uploads/2023-ranger.jpg "Der neue Ford Ranger feiert Premiere bei unserer Ausstellung.")
 
-Nach einem Winter, der sich relativ oft nach Frühling angefühlt hat, starten wir in Kürze wieder in den echten Frühling. Es ist mir eine Freude, euch nach längerer Pause zu unserer heurigen
+Nach einem milden Winter starten wir in Kürze wieder mit voller Energie ins Frühjahr.
+Deshalb laden wir herzlich zu unserer 
 
-### **Frühlingsausstellung am 17. und 18. März**
+## Frühlingsausstellung am 17. und 18. März
 
-einladen zu dürfen.
+ein.
 
-Wir haben uns personell verstärkt und etwas umgebaut. Deshalb präsentieren wir bei dieser Ausstellung nicht nur neue Automodelle. Unsere neuen Mitarbeiter Michaela, Christina und Florian freuen sich, euch bald kennenlernen zu dürfen. 
+Das neue Jahr hat für uns personelle Verstärkung gebracht. Florian Posch verstärkt uns seit Jänner als Kundenberater im Verkauf und freut sich auf ein persönliches Kennenler-nen.
 
-Auf ein Kennenlernen freuen sich aber auch unsere Modellneuheiten: Ford Ranger, Tourneo Connect, Mustang Mach-E sowie Suzuki S-Cross, Jimny, das Geburtstagskind Suzuki Vitara und der neue Opel Astra, der 100% elektrische Opel Mokka und viele mehr.
+Auf ein Kennenlernen freuen sich auch unsere Modellneuheiten: Ford Ranger, Suzuki
+S-Cross und Opel Astra. 
 
-Wir haben auch alle Antriebsvarianten bei uns: ob Elektroauto, Diesel, Benziner oder Hybrid: für jeden Geschmack sollte etwas dabei sein.
+Erfahrt die Vielfalt unserer Elektromodelle vor Ort: vom kleinen Opel Corsa und Mokka über den Ford Mustang Mach-E bis zum neuen Ford E-Transit. 
 
-Bringt gerne eure Familie und Freunde mit. Für euer leibliches Wohl ist bestens gesorgt. 
+Natürlich sind auch Diesel, Benzin und Hybrid nach wie vor aktuell und bei der Ausstellung erlebbar: Ford Tourneo Connect, das Geburtstagskind Suzuki Vitara, S-Cross, Jimny so-wie zahlreiche Gebrauchtwagen und Vorführer. 
+
+Für jeden Bedarf sollte etwas dabei sein.
+
+Für das leibliche Wohl ist bestens gesorgt. 
 
 > **Wir freuen uns auf euch!**
