@@ -23,6 +23,8 @@ bestimmtes Fahrzeug? Wir beraten Sie gerne. Profitieren Sie von unserer langjäh
 
 {% include contact-person.html contact='Jeanine Hirscher' %}
 
+{% include contact-person.html contact='Florian Posch' %}
+
 ### Unsere Gebrauchtwagen bieten viele Vorteile:
 
 * Erstens: technisch komplett in unserer Meisterwerkstatt geprüft

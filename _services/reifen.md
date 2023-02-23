@@ -12,7 +12,7 @@ intro_image: "images/photos/reifen.jpg"
 Egal ob Sommerreifen, Winterreifen, Spikereifen oder Ganzjahresreifen. Reifen für PKW, SUV, Geländewagen oder Kleintransporter. Vertrauen Sie auf unsere Kompetenz. Wir sind Ihr Spezialist für Reifen im Lammertal. Denn: Reifen kauft man bei Schnitzhofer. Wo sonst, bei so günstigen Preisen.
 
 Reifen Anfragen – für aktuelle Aktionspreise, Lieferzeiten und alle anderen Fragen stehen Ihnen unsere Reifenspezialisten gerne zur Verfügung:
-{% include contact-person.html contact='Bartholomäus Eder' %}
+{% include contact-person.html contact='Florian Posch' %}
 
 ## Erste Klasse: unsere Serviceleistungen rund um Räder und Reifen
 

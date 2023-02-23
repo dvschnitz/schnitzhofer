@@ -46,3 +46,5 @@ Ob Elektrisch, als Benziner oder Diesel Opel bietet für alle Bedürfnisse den p
 {% include contact-person.html contact='Josef Schnitzhofer sen.' %}
 
 {% include contact-person.html contact='Jeanine Hirscher' %}
+
+{% include contact-person.html contact='Florian Posch' %}

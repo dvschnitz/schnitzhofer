@@ -8,5 +8,5 @@ promoted: true
 weight: 14
 ---
 
-Freundlich, fleißig und gewissenhaft. Das ist unser Lehrling Paul.
+Freundlich, fleißig und gewissenhaft. Das ist unser Paul.
 
