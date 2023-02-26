@@ -21,8 +21,26 @@ bodyClass: "page-home"
   </div>
 </div>
 
+<div class="container container-news">
+  <h2 class="title">Aktuelles</h2>
+
+  <div class="container pb-0 pb-md-3">
+    <div class="row justify-content-start">
+      {% for post in site.posts %}
+        <div class="col-12 col-md-6 pl-0 pr-5">
+          <h2>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h2>
+          <p class="description-news">{{post.description}}</p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
 <div class="strip">
   <div class="container pt-5 pb-5 pb-md-10">
+    <h2 class="title">Dienstleistungen</h2>
     <div class="row justify-content-start">
       {% assign weighted_services = site.services | sort: "weight" %}
       {% for service in weighted_services %}
@@ -44,23 +62,6 @@ bodyClass: "page-home"
       <div class="col-auto">
         <a class="button button-primary" href="{{ "services" | relative_url }}">Alle Dienstleistungen</a>
       </div>
-    </div>
-  </div>
-</div>
-
-<div class="container container-news">
-  <h2 class="title">Aktuelles</h2>
-
-  <div class="container pb-5 pb-md-5">
-    <div class="row justify-content-start">
-      {% for post in site.posts %}
-        <div class="col-12 col-md-6 pl-0 pr-5">
-          <h2 class="title-news">
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          </h2>
-          <p class="description-news">{{post.description}}</p>
-        </div>
-      {% endfor %}
     </div>
   </div>
 </div>
