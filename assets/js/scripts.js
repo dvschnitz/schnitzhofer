@@ -18,7 +18,7 @@ if (buttonSendSms != null) {
         if (message === null) {
             showFillFormAlert();
         } else {
-            window.open('sms://+436243229841/&body=' + message);
+            window.open('sms://+436601894747/&body=' + message);
         }
     }
 }
