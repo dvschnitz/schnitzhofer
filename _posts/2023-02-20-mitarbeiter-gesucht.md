@@ -27,4 +27,4 @@ W﻿ir bieten eine sichere Position in unserem Familienunternehmen. Wertschätzu
 
 B﻿ezahlung erfolgt nach KV, Überzahlung je nach Qualifikation und Erfahrung gerne möglich. 
 
-W﻿ir freuen uns auf ihre Unterlagen und ein persönliches Kennenlernen. B﻿ewerbungsunterlagen gerne an: josef@schnitzhofer.at
+Wir freuen uns auf ihre Unterlagen und ein persönliches Kennenlernen. B﻿ewerbungsunterlagen gerne an: info@schnitzhofer.at

@@ -5,7 +5,7 @@ draft: false
 image: "images/team/florian-posch.jpg"
 jobtitle: "FAHRZEUGVERKAUF"
 phone: "06243/2298-5"
-email: "fp@schnitzhofer.at"
+# email: "fp@schnitzhofer.at"
 promoted: true
 weight: 8.5
 ---

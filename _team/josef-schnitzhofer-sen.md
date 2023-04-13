@@ -5,7 +5,7 @@ draft: false
 image: "images/team/josef-schnitzhofer-sen.jpg"
 jobtitle: "VERKAUF"
 phone: "06243/2298-40"
-email: "js@schnitzhofer.at"
+# email: "js@schnitzhofer.at"
 promoted: true
 weight: 2
 ---

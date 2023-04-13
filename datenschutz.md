@@ -55,11 +55,11 @@ Sie haben das Ihnen gesetzlich zustehende Recht auf Auskunft sowie auf Berichtig
 
 Wir werden Sie auch unverzüglich bei Verletzungen des Schutzes der personenbezogenen Daten benachrichtigen, sofern die Verletzungen voraussichtlich ein hohes Risiko für Ihre Rechte und Freiheiten zur Folge haben. Es besteht ein Beschwerderecht bei der österreichischen Datenschutzbehörde.
 
-Diese Rechte können direkt bei uns durch eine Mitteilung an die E-Mailadresse datenschutz@schnitzhofer.at oder an die folgenden Kontaktdaten geltend gemacht werden:
+Diese Rechte können direkt bei uns durch eine Mitteilung an die E-Mailadresse info@schnitzhofer.at oder an die folgenden Kontaktdaten geltend gemacht werden:
 
 ### 6. Kontaktdaten
 
 Josef Schnitzhofer GmbH zH Datenschutz-Koordinator<br>
 Markt 191, 5441 Abtenau, Österreich<br>
-E-Mail: <a href="mailto:datenschutz@schnitzhofer.at">datenschutz@schnitzhofer.at</a><br>
+E-Mail: <a href="mailto:info@schnitzhofer.at">info@schnitzhofer.at</a><br>
 Telefon: <a href="tel:00436243229817">06243/2298-17</a>

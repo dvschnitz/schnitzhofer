@@ -7,7 +7,7 @@ jobtitle: "BETRIEBSLEITUNG / DISPO"
 promoted: true
 weight: 5.5
 phone: +43 6243 2298 16
-email: "jh@schnitzhofer.at"
+# email: "jh@schnitzhofer.at"
 ---
 
 Seit ihrer Lehrzeit bei uns hat Jeanine ganz viel Unternehmergeist und mittlerweile die Verantwortung für den reibungslosen Ablauf im Betrieb.

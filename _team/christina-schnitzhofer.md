@@ -5,7 +5,7 @@ draft: false
 image: "images/team/christina-schnitzhofer.jpg"
 jobtitle: "PERSONAL"
 phone: "06243/2298-11"
-email: "christina@schnitzhofer.at"
+# email: "christina@schnitzhofer.at"
 promoted: true
 weight: 1.5
 ---
