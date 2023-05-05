@@ -18,13 +18,17 @@ Viertens: Hybrid Antrieb
 
 Fünftens: 5 Jahre Garantie bis 150.000 km
 
-Leasing Beispiel:
+Leasing Beispiel:  ( S-Corss Hybrid Allgrip shine **Listenpreis € 30.990,00,-**) 
 
+Anzahlung € 9.297,00,-
 
+Laufzeit 36 Monate / 15.000Km pro Jahr 
+
+Restwert € 15.495,00,-
+
+Monatliche Rate € 273,19,-
 
 ![](/assets/uploads/img_2597.jpg)
-
-
 
 ![](/assets/uploads/4cca8ab3-1feb-40d0-947f-ab4a0c51f59a.jpg)
 
