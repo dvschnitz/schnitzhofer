@@ -3,6 +3,7 @@ layout: post
 title: Der neue Ford Ranger.
 description: Jetzt bei uns zur Probefahrt bereit.
 date: 2023-04-25T13:09:52.783Z
+thumbnail: /assets/uploads/2023-ranger.jpg
 ---
 Wir freuen uns, euch den neuen Ranger präsentieren zu dürfen.
 
