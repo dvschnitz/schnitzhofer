@@ -8,16 +8,15 @@ thumbnail: /assets/uploads/thumbnail_suzuki.jpg
 ---
 Wir haben den Suzuki S-Cross auf eine Probefahrt mitgenommen und möchten euch hier fünf Gründe, die für das neueste Suzuki Modell sprechen, vorstellen:
 
-Erstens: Die Ausstattung
-Serienmäßig sind
+**Erstens: Die Ausstattung**-Serienmäßig sind Klimaautomatik mit Pollenfilter,adaptiver Tempomat mit Geschwindigkeitsbegrenzer,Rücksitzlehne im Verhältnis 60 : 40 separat umklappbar,7" Audio-System mit Smartphone-Anbindung inkl. Bluetooth®-Freisprecheinrichtung mit Lenkradbedienung und DAB-Radio,uvm.
 
-Zweitens: Es gibt ihn mit Allradantrieb
+**Zweitens: Es gibt ihn mit Allradantrieb**-Der innovative ALLGRIP SELECT Allradantrieb gewährleistet perfekte Traktion - auf und abseits der Straße. Die vier wählbaren Fahrmodi AUTO, SPORT, SNOW und LOCK sind über einen einfach zu bedienenden Push-Dreh-Regler anwählbar und definieren die unterschiedliche Einsatzzwecke des Allradsystems.
 
-Drittens: Mehr Bodenfreiheit und erhöhte Sitzposition
+**Drittens: Mehr Bodenfreiheit und erhöhte Sitzposition**
 
-Viertens: Hybrid Antrieb
+**Viertens: Hybrid Antrieb**
 
-Fünftens: 5 Jahre Garantie bis 150.000 km
+**Fünftens: MADE FOR AUSTRIA**-5 Jahre Garantie bis 150.000 km Unterbodenkonservierung über die Werkskonservierung hinaus erhält Ihr Suzuki Made for Austria eine zusätzliche Unterbodenkonservierung. Durch die Behandlung mit Unterbodenwachs wird der Unterboden effektiv versiegelt.
 
 Leasing Beispiel:  ( S-Corss Hybrid Allgrip shine **Listenpreis € 30.990,00,-**) 
 
