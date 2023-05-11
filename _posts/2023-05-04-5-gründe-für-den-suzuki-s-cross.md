@@ -8,25 +8,43 @@ thumbnail: /assets/uploads/thumbnail_suzuki.jpg
 ---
 Wir haben den Suzuki S-Cross auf eine Probefahrt mitgenommen und möchten euch hier fünf Gründe, die für das neueste Suzuki Modell sprechen, vorstellen:
 
-**Erstens: Die Ausstattung**-Serienmäßig sind Klimaautomatik mit Pollenfilter,adaptiver Tempomat mit Geschwindigkeitsbegrenzer,Rücksitzlehne im Verhältnis 60 : 40 separat umklappbar,7" Audio-System mit Smartphone-Anbindung inkl. Bluetooth®-Freisprecheinrichtung mit Lenkradbedienung und DAB-Radio,uvm.
+**Erstens: Die Ausstattung**
 
-**Zweitens: Es gibt ihn mit Allradantrieb**-Der innovative ALLGRIP SELECT Allradantrieb gewährleistet perfekte Traktion - auf und abseits der Straße. Die vier wählbaren Fahrmodi AUTO, SPORT, SNOW und LOCK sind über einen einfach zu bedienenden Push-Dreh-Regler anwählbar und definieren die unterschiedliche Einsatzzwecke des Allradsystems.
+Serienmäßig sind Klimaautomatik mit Pollenfilter,adaptiver Tempomat mit Geschwindigkeitsbegrenzer,Rücksitzlehne im Verhältnis 60 : 40 separat umklappbar,7" Audio-System mit Smartphone-Anbindung inkl. Bluetooth®-Freisprecheinrichtung mit Lenkradbedienung und DAB-Radio,uvm.
+
+**Zweitens: Es gibt ihn mit Allradantrieb**
+
+Der innovative ALLGRIP SELECT Allradantrieb gewährleistet perfekte Traktion - auf und abseits der Straße. Die vier wählbaren Fahrmodi AUTO, SPORT, SNOW und LOCK sind über einen einfach zu bedienenden Push-Dreh-Regler anwählbar und definieren die unterschiedliche Einsatzzwecke des Allradsystems.
 
 **Drittens: Mehr Bodenfreiheit und erhöhte Sitzposition**
 
-**Viertens: Hybrid Antrieb**
+Der S-Cross hat eine Bodenfreiheit  von knapp 18cm. Dadurch kann er problemlos buckelige Schotterwege und leichtes Gelände bewältigen. Ein zweiter Vorteil ist die übersichtliche, erhöhte Sitzposition. Angenehmes Ein- und Aussteigen ist dadurch problemlos möglich. 
 
-**Fünftens: MADE FOR AUSTRIA**-5 Jahre Garantie bis 150.000 km Unterbodenkonservierung über die Werkskonservierung hinaus erhält Ihr Suzuki Made for Austria eine zusätzliche Unterbodenkonservierung. Durch die Behandlung mit Unterbodenwachs wird der Unterboden effektiv versiegelt.
+Die serienmäßige Rückfahrkamera hilft beim Retournieren. In der höchsten Ausstattungslinie "flash" ist sogar eine 360 Grad Kamera an Board. Dank vier Kameras hat man das Geschehen rund um das Auto bestens im Blick.
 
-Leasing Beispiel:  ( S-Corss Hybrid Allgrip shine **Listenpreis € 30.990,00,-**) 
+**Viertens: MADE FOR AUSTRIA**
 
-Anzahlung € 9.297,00,-
+5 Jahre Garantie bis 150.000 km Unterbodenkonservierung über die Werkskonservierung hinaus erhält Ihr Suzuki Made for Austria eine zusätzliche Unterbodenkonservierung. Durch die Behandlung mit Unterbodenwachs wird der Unterboden effektiv versiegelt.
 
-Laufzeit 36 Monate / 15.000Km pro Jahr 
+**Fünftens: Jetzt gibt es 1.000 € zusätzlichen Finanzierungsbonus beim Kauf eines neuen S-Cross**
 
-Restwert € 15.495,00,-
+Planbare Kosten dank des Fixzins-Angebots von Suzuki Finance und der Leasing-Bonus machen dern S-Cross jetzt besonders attraktiv. Hier haben wir ein Leasing-Beispiel für den S-Cross shine mit Allradantrieb gerechnet:
 
-Monatliche Rate € 273,19,-
+> **S-Cross Hybrid Allgrip shine**
+>
+> Listenpreis € 30.990,00,-
+>
+> Kaufpreis inklusive Nachlass und Finanzierungsbonus € 28.130,00
+>
+> **Anzahlung € 8.439,00**
+>
+> **Monatliche Rate € 226,81**
+>
+> **Laufzeit 36 Monate / 15.000Km pro Jahr**
+>
+> **Restwert € 14.908,90**
+
+
 
 ![](/assets/uploads/img_2597.jpg)
 
