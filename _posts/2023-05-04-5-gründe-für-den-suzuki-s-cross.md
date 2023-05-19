@@ -48,7 +48,7 @@ Planbare Kosten dank des Fixzins-Angebots von Suzuki Finance und der Leasing-Bon
 >
 >
 
-## [\>> JETZT BERATUNSGESPRÄCH UND PROBEFAHRT VEREINBAREN](mailto:fp@schnitzhofer.at?subject=Anfrage%via%schnitzhofer.at:%Probefahrt%Suzuki%S-Cross)
+## [\>> JETZT BERATUNSGESPRÄCH UND PROBEFAHRT VEREINBAREN](mailto:fp@schnitzhofer.at?subject=AnfrageviaSchnitzhofer.at:Probefahrt-Suzuki-S-Cross)
 
 
 
