@@ -40,17 +40,15 @@ Planbare Kosten dank des Fixzins-Angebots von Suzuki Finance und der Leasing-Bon
 >
 > **Anzahlung € 8.439,00**
 >
-> ![]()
->
 > **Monatliche Rate € 226,81**
 >
 > **Laufzeit 36 Monate / 15.000Km pro Jahr**
 >
 > **Restwert € 14.908,90**
+>
+>
 
-
-
-![](/assets/uploads/2023-button-probefahrt-vereinbaren.png)
+## [\>> JETZT BERATUNSGESPRÄCH UND PROBEFAHRT VEREINBAREN](mailto:fp@schnitzhofer.at?subject=Anfrage%via%schnitzhofer.at:%Probefahrt%Suzuki%S-Cross)
 
 
 
