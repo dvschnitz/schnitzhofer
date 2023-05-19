@@ -12,21 +12,21 @@ Wir haben den Suzuki S-Cross auf eine Probefahrt mitgenommen und möchten euch h
 
 #### **Erstens: Die Ausstattung**
 
-Serienmäßig sind Klimaautomatik mit Pollenfilter,adaptiver Tempomat mit Geschwindigkeitsbegrenzer,Rücksitzlehne im Verhältnis 60 : 40 separat umklappbar,7" Audio-System mit Smartphone-Anbindung inkl. Bluetooth®-Freisprecheinrichtung mit Lenkradbedienung und DAB-Radio,uvm.
+Serienmäßig in der Ausstattungsvariante shine sind **Voll-LED-Scheinwerfer**, **Rückfahrkamera**, **Sitzheizung,** Klimaautomatik mit Pollenfilter, **adaptiver Tempomat** mit Geschwindigkeitsbegrenzer, Rücksitzlehne im Verhältnis 60 : 40 separat umklappbar ,7" Audio-System mit Smartphone-Anbindung inkl. Bluetooth®-Freisprecheinrichtung mit Lenkradbedienung und DAB-Radio,uvm. Außerdem ist der S-Cross das erste Modell von Suzuki, der mit der Smartphone App **Suzuki Connect** funktioniert. Damit kann man das Auto per Smartphone auf- und zusperren, sieht den Fahrzeugstandort und vieles mehr.
 
 #### **Zweitens: Es gibt ihn mit Allradantrieb**
 
 Der innovative ALLGRIP SELECT Allradantrieb gewährleistet perfekte Traktion - auf und abseits der Straße. Die vier wählbaren Fahrmodi AUTO, SPORT, SNOW und LOCK sind über einen einfach zu bedienenden Push-Dreh-Regler anwählbar und definieren die unterschiedliche Einsatzzwecke des Allradsystems.
 
-#### **Drittens: Mehr Bodenfreiheit und erhöhte Sitzposition**
+#### **Drittens: Mehr Bodenfreiheit**
 
-Der S-Cross hat eine Bodenfreiheit  von knapp 18cm. Dadurch kann er problemlos buckelige Schotterwege und leichtes Gelände bewältigen. Ein zweiter Vorteil ist die übersichtliche, erhöhte Sitzposition. Angenehmes Ein- und Aussteigen ist dadurch problemlos möglich. 
+Der S-Cross hat eine Bodenfreiheit  von knapp 18cm. Dadurch kann er problemlos buckelige Schotterwege und leichtes Gelände bewältigen. Ein zweiter Vorteil ist die übersichtliche, **erhöhte Sitzposition**. Angenehmes Ein- und Aussteigen ist dadurch problemlos möglich. 
 
 Die serienmäßige Rückfahrkamera hilft beim Retournieren. In der höchsten Ausstattungslinie "flash" ist sogar eine 360 Grad Kamera an Board. Dank vier Kameras hat man das Geschehen rund um das Auto bestens im Blick.
 
 #### **Viertens: MADE FOR AUSTRIA**
 
-5 Jahre Garantie bis 150.000 km Unterbodenkonservierung über die Werkskonservierung hinaus erhält Ihr Suzuki Made for Austria eine zusätzliche Unterbodenkonservierung. Durch die Behandlung mit Unterbodenwachs wird der Unterboden effektiv versiegelt.
+5 Jahre Garantie bis 150.000 km und eine zusätzliche Unterbodenkonservierung. Über die Werkskonservierung hinaus erhält Ihr Suzuki Made for Austria eine zusätzliche Unterbodenkonservierung. Durch die Behandlung mit Unterbodenwachs wird der Unterboden effektiv versiegelt.
 
 #### **Fünftens: Jetzt gibt es 1.000 € zusätzlichen Finanzierungsbonus beim Kauf eines neuen S-Cross**
 
