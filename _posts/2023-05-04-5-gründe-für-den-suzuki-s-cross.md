@@ -40,11 +40,19 @@ Planbare Kosten dank des Fixzins-Angebots von Suzuki Finance und der Leasing-Bon
 >
 > **Anzahlung € 8.439,00**
 >
+> ![]()
+>
 > **Monatliche Rate € 226,81**
 >
 > **Laufzeit 36 Monate / 15.000Km pro Jahr**
 >
 > **Restwert € 14.908,90**
+
+
+
+![](/assets/uploads/2023-button-probefahrt-vereinbaren.png)
+
+
 
 ![](/assets/uploads/4cca8ab3-1feb-40d0-947f-ab4a0c51f59a.jpg)
 
