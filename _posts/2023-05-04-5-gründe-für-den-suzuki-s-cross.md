@@ -6,7 +6,9 @@ description: Der familientaugliche Allrad Crossover von Suzuki ist jetzt ist
 date: 2023-05-04T13:33:49.681Z
 thumbnail: /assets/uploads/thumbnail_suzuki.jpg
 ---
-Wir haben den Suzuki S-Cross auf eine Probefahrt mitgenommen und möchten euch hier fünf Gründe, die für das neueste Suzuki Modell sprechen, vorstellen:
+![Suzuki S-Cross Abtenau Schnitzhofer Allrad Allgrip](/assets/uploads/4cca8ab3-1feb-40d0-947f-ab4a0c51f59a.jpg "Unser Fotomodell vom S-Cross: Sofort verfügbar als Ausstellungsauto in energetic red pearl metallic in der Ausstattungslinie shine mit Allradantrieb und 129 PS.")
+
+Wir haben den Suzuki S-Cross auf eine Probefahrt mitgenommen und möchten euch hier fünf Gründe, die für das neueste Suzuki Modell sprechen, vorstellen.
 
 #### **Erstens: Die Ausstattung**
 
@@ -43,8 +45,6 @@ Planbare Kosten dank des Fixzins-Angebots von Suzuki Finance und der Leasing-Bon
 > **Laufzeit 36 Monate / 15.000Km pro Jahr**
 >
 > **Restwert € 14.908,90**
-
-
 
 ![](/assets/uploads/4cca8ab3-1feb-40d0-947f-ab4a0c51f59a.jpg)
 
