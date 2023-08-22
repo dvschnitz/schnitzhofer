@@ -26,3 +26,5 @@ Ihr Ansprechpartner:
 ###### [E-Mail schicken](mailto:fp@schnitzhofer.at)
 
 ![](/assets/uploads/florian-small-.jpeg)
+
+#### [Hier geht's zu unseren sofort verfügbaren Fahrzeugen.](https://fahrzeuge.schnitzhofer.at/auto-suchen/)
