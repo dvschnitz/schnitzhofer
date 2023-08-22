@@ -2,7 +2,7 @@
 layout: post
 title: Fahrzeuge in Kürze verfügbar
 description: "Exklusiv und vorab schon auf schnitzhofer.at: Fahrzeuge die bei
-  uns im Vorlauf sind, und in Kürze verfügbar. "
+  uns im Vorlauf sind. Gebrauchtwagen, Neuwagen, Transporter."
 date: 2023-08-22T06:13:08.912Z
 thumbnail: /assets/uploads/img_5007.jpg
 ---
@@ -19,10 +19,10 @@ Ihr Ansprechpartner:
 
 ### Florian Posch
 
+###### [TELEFON: 06243/2298-5](tel:0043624322985)
+
+###### [WhatsApp schicken](https://wa.me/436605387623)
+
+###### [E-Mail schicken](mailto:fp@schnitzhofer.at)
+
 ![](/assets/uploads/florian-small-.jpeg)
-
-##### [TELEFON: 06243/2298-5](tel:0043624322985)
-
-##### [WhatsApp schicken](https://wa.me/436605387623)
-
-[E-Mail schicken](mailto:fp@schnitzhofer.at)
