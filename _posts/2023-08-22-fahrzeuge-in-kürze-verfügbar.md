@@ -10,3 +10,17 @@ thumbnail: /assets/uploads/img_5007.jpg
 * Ford Transit Custom Trend Kastenwagen L1H1 2,0 Ecoblue 130 PS, EZ 12/2018, 128.000 km, Navi, Sitzheizung, Heckklappe, Rückfahrkamera, silber
 * Suzuki Ignis Allrad flash 1,2 Benziner 90 PS, EZ 10/2019, schwarz
 * Suzuki Jimny N1 1,5 Allgrip 102 PS
+
+
+
+Ihr Ansprechpartner:
+
+### Florian Posch
+
+![](/assets/uploads/florian-small-.jpeg)
+
+##### [TELEFON: 06243/2298-5](tel:0043624322985)
+
+##### [WhatsApp schicken](https://wa.me/436605387623)
+
+[E-Mail schicken](mailto:fp@schnitzhofer.at)
