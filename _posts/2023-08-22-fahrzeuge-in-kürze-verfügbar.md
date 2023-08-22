@@ -10,6 +10,8 @@ thumbnail: /assets/uploads/img_5007.jpg
 * Ford Transit Custom Trend Kastenwagen L1H1 2,0 Ecoblue 130 PS, EZ 12/2018, 128.000 km, Navi, Sitzheizung, Heckklappe, Rückfahrkamera, silber
 * Suzuki Ignis Allrad flash 1,2 Benziner 90 PS, EZ 10/2019, schwarz
 * Suzuki Jimny N1 1,5 Allgrip 102 PS
+* Audi S1 quattro Sportback 2,0 TFSI 231 PS, 11/2016, schwarz
+* Opel Mokka 1,7 CDTi 4x4, EZ 02/2014, orange metallic
 
 
 
