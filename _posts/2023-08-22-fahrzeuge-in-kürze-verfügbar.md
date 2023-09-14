@@ -11,6 +11,8 @@ thumbnail: /assets/uploads/img_5007.jpg
 * Suzuki Ignis Allrad flash 1,2 Benziner 90 PS, EZ 10/2019, schwarz
 * Suzuki Jimny N1 1,5 Allgrip 102 PS
 * Opel Mokka 1,7 CDTi 4x4, EZ 02/2014, orange metallic
+* Ford S Max 4x4 EZ 2019 190 PS Diesel  Weiß 
+* Ford Kuga 4x4 EZ 2020 190 PS Diesel Schwarz 
 
 Ihr Ansprechpartner:
 
