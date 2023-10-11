@@ -13,3 +13,5 @@ Ganz schön ausgefuchst, was die neuen Snowfox Sondermodelle so alles mitbringen
 
 1. \*Kundenvorteil am Beispiel ACROSS von € 5.500 besteht aus € 4.500 Snowfox Bonus und € 1.000 Zubehör-Gutschein. Bonus inkl. Händlerbeteiligung. Zubehör-Gutschein einlösbar beim Kauf von Original Suzuki Zubehör. Aktion gültig bei Kaufabschlüssen von Neufahrzeugen von 16.10.2023 bis 31.01.2024 bei allen teilnehmenden Suzuki Händlern.\
 2. WLTP-geprüft. Druckfehler, Irrtümer und Änderungen vorbehalten. Symbolfotos. Mehr Informationen auf www.suzuki.at oder bei Ihrem Suzuki Händler.
+
+   ![](/assets/uploads/snowfoxteile-1024x426.jpg)
