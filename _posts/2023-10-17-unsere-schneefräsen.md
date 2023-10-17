@@ -19,7 +19,7 @@ Setzen Sie auf Qualität, Leistung und Zuverlässigkeit. Holen Sie sich Ihre Hon
 
 Wir haben einige Modelle bei uns lagernd von Honda HSS 760 - HSM 1380i1, schauen Sie gerne bei unserem "Hondaschauraum" vorbei, und finden Sie ihre passende Schneefräse. 
 
-Schnitzhofer Sonderangebot : 
+**Schnitzhofer Sonderangebot :** 
 
 Honda HSS 970A TD ( 71cm Räumbreite, 52t/Std. Räumleistung, Raupenfahrwerk,Elektrostart) 
 
