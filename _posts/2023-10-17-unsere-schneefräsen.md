@@ -17,9 +17,7 @@ Dank der benutzerfreundlichen Bedienung und des langlebigen Designs sind Honda S
 
 Setzen Sie auf Qualität, Leistung und Zuverlässigkeit. Holen Sie sich Ihre Honda Schneefräse und machen Sie den Winter zur Jahreszeit der Sorglosigkeit!
 
-
-
-Wir haben einige Modelle bei uns lagernd von Honda HSS 760 - HSM 1380i1, schauen Sie gerne bei unserem "Hondaschauraum" vorbei. 
+Wir haben einige Modelle bei uns lagernd von Honda HSS 760 - HSM 1380i1, schauen Sie gerne bei unserem "Hondaschauraum" vorbei, und finden Sie ihre passende Schneefräse. 
 
 <!--EndFragment-->
 
