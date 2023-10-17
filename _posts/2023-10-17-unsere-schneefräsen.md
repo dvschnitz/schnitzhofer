@@ -27,4 +27,6 @@ Listenpreis € 6.499,- JETZT UM NUR **€ 5.550,-**
 
 <!--EndFragment-->
 
-![](/assets/uploads/img_5379.jpg)
+![](/assets/uploads/img_5381.jpg)
+
+![](/assets/uploads/img_5383.jpg)
