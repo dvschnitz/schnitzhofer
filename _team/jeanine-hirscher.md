@@ -6,7 +6,7 @@ image: "images/team/jeanine-hirscher.jpg"
 jobtitle: "BETRIEBSLEITUNG / DISPO"
 promoted: true
 weight: 5.5
-phone: +43 6243 2298 16
+phone: 06243/2298-16
 # email: "jh@schnitzhofer.at"
 ---
 
