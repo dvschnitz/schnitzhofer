@@ -8,4 +8,4 @@ promoted: true
 weight: 17
 ---
 
-Das neueste Mitglied in unserem Team. Hat seinen Führerschein schon in der Tasche und Freude am Automobil.
+Lukas ist bereits im letzten Lehrjahr angekommen. Er kennt die Abläufe im Betrieb schon sehr gut und übernimmt gerne Verantwortung.

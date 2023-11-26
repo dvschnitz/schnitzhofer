@@ -8,5 +8,5 @@ promoted: true
 weight: 14
 ---
 
-Die Lehrabschlussprüfung erfolgreich absolviert, freuen wir uns, wenn Paul uns nach seiner Pause im Zivildienst in Kürze wieder unterstützt.
+Nach seinem geleisteten Zivildienst, freuen wir uns, dass Paul unser Werkstattteam perfekt ergänzt.
 
