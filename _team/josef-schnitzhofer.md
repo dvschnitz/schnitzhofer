@@ -11,4 +11,4 @@ weight: 1
 layout: team
 ---
 
-Seit März 2020 führt er in vierter Generation den Betrieb. Seit 2002 im Betrieb, weiß er ganz genau, worauf es ankommt.
+Jeder Mensch in unserem Betrieb darf zu seiner besten Version werden. Gemeinsam mit den Mitarbeitern möchte ich das mithilfe unserer Vision nach und nach umsetzen.

@@ -7,7 +7,7 @@ jobtitle: "BUCHHALTUNG"
 phone: "06243/2298-11"
 # email: "buchhaltung@schnitzhofer.at"
 promoted: true
-weight: 3
+weight: 20
 ---
 
-Sorgt für reibungslosen Ablauf in Buchhaltung, Administration und Fahrzeugauslieferungen.
+Sorgt für den reibungslosen und korrekten Ablauf in der Buchhaltung.

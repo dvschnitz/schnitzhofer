@@ -7,7 +7,7 @@ jobtitle: "FAHRZEUGVERKAUF"
 phone: "06243/2298-50"
 # email: "fp@schnitzhofer.at"
 promoted: true
-weight: 8.5
+weight: 4.5
 ---
 
 Beraten, nicht bedrängen. Als Kundenberater im Fahrzeugverkauf hat sich Flo mit seiner offenen Art schnell in die Schnitzhofer Familie eingegliedert.
