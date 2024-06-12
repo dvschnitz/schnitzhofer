@@ -9,6 +9,8 @@ thumbnail: /assets/uploads/img_0335.jpg
 
 Als Familienauto dient uns seit etwas mehr als 3 Jahren ein Opel Zafira-e. Mit einer Batteriekapazität von 75 kWh bewegt sich die Praxisreichweite zwischen ca. 180km (Winter) und ca. 270 km (Sommer). Der Zafira ist also eher ein Mittelstrecken als ein Langstrecken-Elektroauto.
 
+![](/assets/uploads/img_0336.jpg)
+
 Letztes Jahr sind wir noch auf den Diesel für unsere jährliche Urlaubsfahrt an die italienische obere Adria ausgewichen, aber diesmal wollte ich es elektrisch probieren. 
 
 > Schließlich sollte es bei der Fahrt in den Urlaub ja nichts ausmachen, ob man eine Stunde früher oder später am Zielort ankommt.
@@ -19,9 +21,11 @@ Eine wirklich empfehlenswerte App ist „ABRP - A Better Route Planner“. Man b
 
 So hab ich mir die Ladestationen als Favoriten in Google Maps gespeichert und es konnte losgehen. Der erste Ladestopp Villach. Und der zweite Ladestopp bei der Hinfahrt war in Udine geplant, da hab ich mir zur Sicherheit zwei Schnellader rausgesucht, da eine Ladestation nur spärlich mit einem Schnelllader bestückt war.
 
-Koffer gepackt, Kinder geweckt und ins Auto gesteckt: Um 4.30 Uhr früh ging es also mit vollen Akkus in den Süden - zum ersten Mal elektrisch für uns. Der erste Ladestopp war in Villach geplant. Hier hatten wir zur positiven Überraschung noch ca. 40% Akku. Die etwas niedrigere Geschwindigkeit durch Baustellenabschnitte machte sich hier vermutlich etwas bemerkbar. Generell hielt ich das Autobahn Tempo immer zwischen 120 und 130 km/h, ich wollte ja auch nicht mit 90 hinter einem LKW schleichen. Also in Villach zu Tesla und nach 14 Minuten und 43 Sekunden Ladezeit und ca. 80% Ladung wieder weiter Richtung Süden. Die Ladeleistung betrug ca. 93 kW (beim Zafira sind maximal 100 kW angegeben - also alles im Rahmen). Das Laden hat 11 € gekostet.
+Koffer gepackt, Kinder geweckt und ins Auto gesteckt: Um 4.30 Uhr früh ging es also mit vollen Akkus in den Süden - zum ersten Mal elektrisch für uns. Der erste Ladestopp war in Villach geplant. Hier hatten wir zur positiven Überraschung noch ca. 40% Akku. Die etwas niedrigere Geschwindigkeit durch Baustellenabschnitte machte sich hier vermutlich etwas bemerkbar. Generell hielt ich das Autobahn Tempo immer zwischen 120 und 130 km/h, ich wollte ja auch nicht mit 90 hinter einem LKW schleichen. Also in Villach zu Tesla und nach 14 Minuten und 43 Sekunden Ladezeit und ca. 80% Ladung wieder weiter Richtung Süden. Die Ladeleistung betrug ca. 93 kW (beim Zafira sind maximal 100 kW angegeben - also alles im Rahmen). 
 
-Kurz zu den Tesla Chargern: in Österreich, Deutschland und sonst noch ein paar ausgewählten Ländern hat Tesla das Laden auch für nicht Tesla-Fahrer freigeschalten, was die Auswahl an Ladestationen verbessert. Mit unserem Zafira waren wir auf unserem Trip bei beiden Ladestopps die einzigen Nicht-Teslas. (; Für die Ladung einfach Tesla App runterladen, Konto erstellen, Kreditkarte hinterlegen und Ladestation einfach per App freischalten.
+Kurz zu den Tesla Chargern: in Österreich, Deutschland und sonst noch ein paar ausgewählten Ländern hat Tesla das Laden auch für nicht Tesla-Fahrer freigeschalten, was die Auswahl an Ladestationen verbessert. Mit unserem Zafira waren wir auf unserem Trip bei beiden Ladestopps die einzigen Nicht-Teslas. (; Für die Ladung einfach Tesla App runterladen, Konto erstellen, Kreditkarte hinterlegen und Ladestation einfach per App freischalten. Die sehr kurzen Ladekabel sind ein kleiner Minuspunkt bei Tesla, wie am Foto zu sehen:
+
+![](/assets/uploads/img_0335.jpg)
 
 Mit 35km Restreichweite kommen wir ohne Stress nach Udine wo wir das Ionity Ladenetzwerk nutzen und dort den Porsche Schnelllader ansteuern. Nach 27 Minuten Ladezeit haben wir wieder mehr als 200km in der Reichweitenanzeige und es geht auf unsere Schlussetappe. Es hätte auch weniger Ladezeit gereicht aber ich hab mich mit meiner Frau darauf geeinigt, lieber ein paar Minuten mehr Ladezeit und mehr Puffer mitzuhaben. Darauf sollte man generell achten - man hat es dann auf jeden Fall entspannter. 
 
