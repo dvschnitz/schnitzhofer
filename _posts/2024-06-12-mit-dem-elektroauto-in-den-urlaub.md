@@ -9,6 +9,8 @@ thumbnail: /assets/uploads/img_0335.jpg
 
 Als Familienauto dient uns seit etwas mehr als 3 Jahren ein Opel Zafira-e. Mit einer Batteriekapazität von 75 kWh bewegt sich die Praxisreichweite zwischen ca. 180km (Winter) und ca. 270 km (Sommer). Der Zafira ist also eher ein Mittelstrecken als ein Langstrecken-Elektroauto.
 
+![](/assets/uploads/img_0336.jpg "Ladepause in Villach")
+
 Im Jahr zuvor sind wir noch auf den Diesel für unsere jährliche Urlaubsfahrt an die italienische obere Adria ausgewichen, aber diesmal wollte ich es elektrisch probieren. 
 
 > Schließlich sollte es bei der Fahrt in den Urlaub ja nichts ausmachen, ob man eine Stunde früher oder später am Zielort ankommt.
