@@ -7,9 +7,9 @@ thumbnail: /assets/uploads/img_0335.jpg
 ---
 # Mit dem Elektroauto zu Fünft in den Urlaub
 
-Als Familienauto dient uns seit etwas mehr als 3 Jahren ein Opel Zafira-e. Mit einer Batteriekapazität von 75 kWh bewegt sich die Praxisreichweite zwischen ca. 180km (Winter) und ca. 270 km (Sommer). Der Zafira ist also eher ein Mittelstrecken als ein Langstrecken-Elektroauto.
-
 ![](/assets/uploads/img_0336.jpg)
+
+Als Familienauto dient uns seit etwas mehr als 3 Jahren ein Opel Zafira-e. Mit einer Batteriekapazität von 75 kWh bewegt sich die Praxisreichweite zwischen ca. 180km (Winter) und ca. 270 km (Sommer). Der Zafira ist also eher ein Mittelstrecken als ein Langstrecken-Elektroauto.
 
 Letztes Jahr sind wir noch auf den Diesel für unsere jährliche Urlaubsfahrt an die italienische obere Adria ausgewichen, aber diesmal wollte ich es elektrisch probieren. 
 
@@ -54,3 +54,5 @@ Ionity ist eines der größten Ladenetzwerke in Europa. Mit Hilfe einer Ladekart
 Ausblick Elektroautos:
 
 Die Reichweite steigt und die Autos werden leistbarer. Opel hat kürzlich den neuen Grandland mit einer WLTP Reichweite von bis zu 700km vorgestellt. Bei Suzuki kommt nächstes Jahr ein vollelektrischer Vitara. Und bei Ford ist der neue Explorer, ein SUV in der Größe eines Kuga ab sofort bestellbar. Reichweite bis zu 604km lt. WLTP.
+
+Verfasst von Josef Schnitzhofer
