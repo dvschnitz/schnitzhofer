@@ -9,7 +9,7 @@ thumbnail: /assets/uploads/img_0335.jpg
 
 Als Familienauto dient uns seit etwas mehr als 3 Jahren ein Opel Zafira-e. Mit einer Batteriekapazität von 75 kWh bewegt sich die Praxisreichweite zwischen ca. 180km (Winter) und ca. 270 km (Sommer). Der Zafira ist also eher ein Mittelstrecken als ein Langstrecken-Elektroauto.
 
-![](/assets/uploads/img_0336.jpg "Ladepause in Villach")
+![Elektroauto Opel Zafira einer Tesla Ladestation in Villach](/assets/uploads/img_0336.jpg "Ladepause in Villach")
 
 Im Jahr zuvor sind wir noch auf den Diesel für unsere jährliche Urlaubsfahrt an die italienische obere Adria ausgewichen, aber diesmal wollte ich es elektrisch probieren. 
 
@@ -25,13 +25,19 @@ Koffer gepackt, Kinder geweckt und ins Auto gesteckt: Um 4.30 Uhr früh ging es 
 
 Kurz zu den Tesla Chargern: in Österreich, Deutschland und sonst noch ein paar ausgewählten Ländern hat Tesla das Laden auch für nicht Tesla-Fahrer freigeschalten, was die Auswahl an Ladestationen verbessert. Mit unserem Zafira waren wir auf unserem Trip bei beiden Ladestopps die einzigen Nicht-Teslas. (; Für die Ladung einfach Tesla App runterladen, Konto erstellen, Kreditkarte hinterlegen und Ladestation einfach per App freischalten.
 
-Mit 35km Restreichweite kommen wir ohne Stress nach Udine wo wir das Ionity Ladenetzwerk nutzen und dort den Porsche Schnelllader ansteuern. Nach 27 Minuten Ladezeit haben wir wieder mehr als 200km in der Reichweitenanzeige und es geht auf unsere Schlussetappe. Es hätte auch weniger Ladezeit gereicht aber ich hab mich mit meiner Frau darauf geeinigt, lieber ein paar Minuten mehr Ladezeit und mehr Puffer mitzuhaben. Darauf sollte man generell achten - man hat es dann auf jeden Fall entspannter. Und: Happy wife, happy life!
+Mit 35km Restreichweite kommen wir ohne Stress nach Udine wo wir das Ionity Ladenetzwerk nutzen und dort den Porsche Schnelllader ansteuern. Nach 27 Minuten Ladezeit haben wir wieder mehr als 200km in der Reichweitenanzeige und es geht auf unsere Schlussetappe. Es hätte auch weniger Ladezeit gereicht aber ich hab mich mit meiner Frau darauf geeinigt, lieber ein paar Minuten mehr Ladezeit und mehr Puffer mitzuhaben. Darauf sollte man generell achten - man hat es dann auf jeden Fall entspannter. 
+
+![](/assets/uploads/img_0345.jpg "Laden in Udine")
 
 Am Ziel angekommen haben wir die Ladesäule unserer Unterkunft angesteuert, wo unser Zafira gemächlich wieder auf 100% geladen wurde.
 
 Beim Heimweg steuerten wir nach ca. 150 km den Schnelllader in Gemona an. Mit Ionity alles ganz easy. Genug Platz rundherum. Nach ca. 25 Minuten ging es wieder weiter, geplant war Autobahn. Aber wegen eines Unfalls auf der Autobahn und generell schon mehr Verkehr im Kanaltal aufgrund des Hochwasser in Slowenien lotste uns das Navi gleich auf die Bundesstraße. Bis über die Grenze nach Österreich.
 
+![](/assets/uploads/img_0475.jpg "Laden im Städtchen Gemona")
+
 In Spittal war unser nächster geplanter Ladestopp. Die Zeit war genau richtig für Abendessen, also das zweite Mal zu Tesla und gleich daneben bei McDonalds österreichische Hausmannskost genossen. Da das Essen lang genug dauerte, und die Kinder vom McDonalds Indoor Spielplatz nicht genug bekamen, war unser Akku für die letzte Etappe beinahe zu 100% geladen. Somit konnten wir zügig und entspannt die letzen Kilometer in die schöne Heimat zurücklegen.
+
+![](/assets/uploads/img_0489.jpg "Letzter Ladestopp in Spittal.")
 
 Die Reise haben wir Ende Juli 2023 gemacht und aufgrund der bevorstehenden Urlaubszeit 2024 wollte ich meine Erfahrungen vom letzten Jahr mit euch teilen.
 
