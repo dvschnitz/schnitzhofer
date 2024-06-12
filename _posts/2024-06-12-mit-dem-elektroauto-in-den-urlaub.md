@@ -5,11 +5,13 @@ description: Erfahrungsbericht einer Italien Reise
 date: 2024-06-12T06:05:36.717Z
 thumbnail: /assets/uploads/img_0335.jpg
 ---
-Mit dem Elektroauto zu Fünft in den Urlaub
+# Mit dem Elektroauto zu Fünft in den Urlaub
 
 Als Familienauto dient uns seit etwas mehr als 3 Jahren ein Opel Zafira-e. Mit einer Batteriekapazität von 75 kWh bewegt sich die Praxisreichweite zwischen ca. 180km (Winter) und ca. 270 km (Sommer). Der Zafira ist also eher ein Mittelstrecken als ein Langstrecken-Elektroauto.
 
-Im Jahr zuvor sind wir noch auf den Diesel für unsere jährliche Urlaubsfahrt an die italienische obere Adria ausgewichen, aber diesmal wollte ich es elektrisch probieren. Schließlich sollte es bei der Fahrt in den Urlaub ja nichts ausmachen, ob man eine Stunde früher oder später am Zielort ankommt.
+Im Jahr zuvor sind wir noch auf den Diesel für unsere jährliche Urlaubsfahrt an die italienische obere Adria ausgewichen, aber diesmal wollte ich es elektrisch probieren. 
+
+> Schließlich sollte es bei der Fahrt in den Urlaub ja nichts ausmachen, ob man eine Stunde früher oder später am Zielort ankommt.
 
 Also machte ich mich an die Routenplanung für die gut 400km nach Italien. Eigentlich würde einmal laden ausreichen, aber da noch nicht an jeder Autobahnraststätte auch ein Schnelllader steht, ging ich auf Nummer sicher und plante von vornherein 2 Ladestopps ein. Die Kinder brauchen sowieso auch hin und wieder eine Pause.
 
