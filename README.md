@@ -2,7 +2,7 @@
 
 Serif is a modern business theme for Jekyll. It contains multiple content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 
-[Live Demo](https://jekyll-serif.netlify.app/) | 
+[Live Demo](https://jekyll-serif.netlify.app/) |
 [Zerostatic Themes](https://www.zerostatic.io)
 
 ![Jekyll Serif Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
@@ -32,7 +32,7 @@ Serif is a modern business theme for Jekyll. It contains multiple content types 
 ## Installation
 
 ### Installing Ruby & Jekyll
- 
+
 If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
 
 ### Installing Theme
@@ -43,16 +43,16 @@ To run the theme locally, navigate to the theme directory and run:
 
 ```
 bundle install
-``` 
+```
 
 To start the Jekyll local development server.
 
 ```
 bundle exec jekyll serve
-``` 
+```
 
 To build the theme.
- 
+
 ```
 bundle exec jekyll build
 ```
@@ -86,7 +86,7 @@ For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would
 
 ### License
 
-This theme is open source under the MIT license. Please be respectful 🙏🏽 Leave me as an original author in the LICENSE file if you fork or copy this theme. 
+This theme is open source under the MIT license. Please be respectful 🙏🏽 Leave me as an original author in the LICENSE file if you fork or copy this theme.
 
 > Do not create ports of this theme. Do You can't re-distribute or re-sell this theme as a theme, stock, in a tool or as a template.
 
@@ -94,3 +94,9 @@ This theme is open source under the MIT license. Please be respectful 🙏🏽 L
 
 - [Hugo Serif Theme](https://github.com/zerostaticthemes/hugo-serif-theme) (official)
 - [Gatsby Serif Theme](https://github.com/zerostaticthemes/gatsby-serif-theme) (official)
+
+### Run on newer MacOS Versions
+`rbenv install 3.2.3`
+`rbenv local 3.2.3`
+`gem install bundler`
+add `export PATH="$HOME/.rbenv/shims:$PATH"` to .zshrc
