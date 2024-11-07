@@ -39,6 +39,4 @@ Monatliches Bruttoeinkommen € 2.400,-
 
 Wir freuen uns über deine Bewerbung! Per Mail an josef@schnitzhofer.at oder telefonisch unter 06243/2298-17
 
-
-
 ![](/assets/uploads/smile.png)
