@@ -12,7 +12,26 @@ thumbnail: /assets/uploads/2025-schauraum-explorer-swift-ausstellung-einladung-t
 
 ### von 20. bis 31. Jänner, Montag bis Freitag, täglich von 9.00 bis 17.00 Uhr
 
-Wir präsentieren euch in entspannter Atmosphäre unsere Modellneuheiten. Ob Verbrenner, Mild-Hybrid, Vollhybrid, Plug-In-Hybrid oder 100% elektrisch: wir haben jede Technologie zum Probe fahren und beraten euch gerne. Hier ein kleiner Modellüberblick unserer drei Marken:
+Wir präsentieren euch in entspannter Atmosphäre unsere Modellneuheiten. Ob Verbrenner, Mild-Hybrid, Vollhybrid, Plug-In-Hybrid oder 100% elektrisch: wir haben jede Technologie zum Probe fahren und beraten euch gerne. 
+
+Falls ein neues Auto für dich derzeit keine Option ist, zeigen wir dir gerne, was du berücksichtigen solltest, damit du dein derzeitiges Auto so lange als möglich nutzen kannst. Sprich mich oder unseren Serviceberater Herbert Ramsauer gerne darauf an.
+
+Wir freuen uns auf euch!
+
+Hier findest du unsere Aussendung zum Durchblättern:
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGZJxBtw7I/_QhfPJ9VU4vmeJw6c59ErQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGZJxBtw7I&#x2F;_QhfPJ9VU4vmeJw6c59ErQ&#x2F;view?utm_content=DAGZJxBtw7I&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">2025-01 Ausstellungswoche</a> von Josef Schnitzhofer GmbH
+
+
+
+Hier ein kleiner Modellüberblick unserer drei Marken:
 
 ## FORD
 
@@ -34,8 +53,6 @@ Wir präsentieren euch in entspannter Atmosphäre unsere Modellneuheiten. Ob Ver
 
   Derzeit sind viele Ford Nutzfahrzeuge zu Sonderkonditionen sofort verfügbar.
 
-
-
 ## SUZUKI
 
 Die kleine und feine Modellpalette glänzt mit fairen Preisen und 5 Jahren Garantie bis 150.000 km. Bei unserer Ausstellung haben wir alle Modelle zum Probe fahren und besichtigen verfügbar.
@@ -48,19 +65,4 @@ Die kleine und feine Modellpalette glänzt mit fairen Preisen und 5 Jahren Garan
 
 ## OPEL
 
-•	Die gesamte Opel Modellpalette CORSA, MOKKA, der neue FRONTERA, ASTRA, der neue GRANDLAND, COMBO, ZAFIRA sowie die Nutzfahrzeuge Palette von Opel ist bei uns zu den jeweils gültigen Aktionspreisen bestellbar. Einige Modelle sind sofort verfügbar. 
-
-Falls ein neues Auto für dich derzeit keine Option ist, zeigen wir dir gerne, was du berücksichtigen solltest, damit du dein derzeitiges Auto so lange als möglich nutzen kannst. Sprich mich oder unseren Serviceberater Herbert Ramsauer gerne darauf an.
-
-Wir freuen uns auf euch!
-
-Hier findest du unsere Aussendung zum Durchblättern:
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGZJxBtw7I/_QhfPJ9VU4vmeJw6c59ErQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGZJxBtw7I&#x2F;_QhfPJ9VU4vmeJw6c59ErQ&#x2F;view?utm_content=DAGZJxBtw7I&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">2025-01 Ausstellungswoche</a> von Josef Schnitzhofer GmbH
+•	Die gesamte Opel Modellpalette CORSA, MOKKA, der neue FRONTERA, ASTRA, der neue GRANDLAND, COMBO, ZAFIRA sowie die Nutzfahrzeuge Palette von Opel ist bei uns zu den jeweils gültigen Aktionspreisen bestellbar. Einige Modelle sind sofort verfügbar.
