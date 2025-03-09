@@ -27,7 +27,7 @@ Wenn Sie unsere Webseite besuchen, werden durch Cookies personenbezogene Daten t
 
 ### 3. Partner
 
-Wir führen nicht sämtliche Verarbeitungen personenbezogener Daten selbst durch, sondern haben Unterstützung von professionellen Partnern, namentlich der Vector Software Datenverarbeitung GmbH mit Sitz in 1020 Wien und der A1 Telekom Austria AG mit Sitz in 1020 Wien, Netlify Inc.mit Sitz in San Francisco (USA), Loco Soft GmbH Austria, Ford Motor Company Austria GmbH, Opel Austria GmbH, Suzuki Austria Handelsgesellschaft mbH, AutoScout24 AS GmbH, A-1010 Wien  welche im Auftrag der Josef Schnitzhofer GmbH tätig werden.
+Wir führen nicht sämtliche Verarbeitungen personenbezogener Daten selbst durch, sondern haben Unterstützung von professionellen Partnern, namentlich der Vector Software Datenverarbeitung GmbH mit Sitz in 1020 Wien und der A1 Telekom Austria AG mit Sitz in 1020 Wien, Netlify Inc.mit Sitz in San Francisco (USA), Loco Soft GmbH Austria, Ford Motor Company Austria GmbH, Suzuki Austria Handelsgesellschaft mbH, AutoScout24 AS GmbH, A-1010 Wien  welche im Auftrag der Josef Schnitzhofer GmbH tätig werden.
 
 Die Partner wurden sorgfältig ausgewählt und sorgen durch geeignete technische und organisatorische Maßnahmen dafür, dass die Verarbeitung Ihrer Daten im Einklang mit den datenschutzrechtlichen Vorgaben erfolgt und die Wahrung Ihrer Rechte gewährleistet ist. Es ist den Partnern nicht gestattet, die überlassenen personenbezogenen Daten für eigene oder werbliche Zwecke zu nutzen oder an Dritte weiterzugeben.
 

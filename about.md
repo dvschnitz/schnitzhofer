@@ -78,17 +78,13 @@ im Jänner legt Josef Schnitzhofer jun. die Meisterprüfung für KFZ-Technik erf
 <img src="{{ 'images/timeline/2011.jpg' | relative_url }}" alt="90 Jahre Feier 2011"/>
 Wir feiern 90 Jahre Schnitzhofer gemeinsam mit Familie und Mitarbeitern. Außerdem werden unsere am längsten dienenden Mitarbeiter geehrt.
 
-## 2012
-
-Wir sind offizieller Opel Service Partner für PKW und Nutzfahrzeuge und sichern die optimale Betreuung der zahlreichen Opel Kunden im Lammertal. Eine weitere starke Marke im Autohaus Schnitzhofer.
-
 ## 2013
 <img src="{{ 'images/timeline/2013.jpg' | relative_url }}" alt="Umbau Lackierkabine 2013"/>
 Kompletter Umbau Modernisierung unseres Karosseriezentrums mit neuer, energieeffizienter Lackierkabine. Neue Hebebühnen, neue Farbmischanlage mit Farbtonfindung direkt am Fahrzeug.
 
 ## 2016
 <img src="{{ 'images/timeline/2016.jpg' | relative_url }}" alt="Umbau 2016"/>
-Ein ereignisreiches Jahr: Nach mehrjähriger Planungsphase starten im März die Bauarbeiten zu einer großzügigen Erweiterung und Modernisierung des Betriebs. Die Schauräume für Ford und Suzuki werden erweitert. Im Untergeschoß wird eine Tiefgarage errichtet und die Marke Opel bekommt einen eigenen, geräumigen Ausstellungsraum mit direktem Zugang zum Parkplatz Ost. Zur Nutzung wertvoller Sonnenenergie wurde südseitig eine leistungsstarke Photovoltaikanlage installiert. Die Bauarbeiten konnten zum Jahresende abgeschlossen werden.
+Ein ereignisreiches Jahr: Nach mehrjähriger Planungsphase starten im März die Bauarbeiten zu einer großzügigen Erweiterung und Modernisierung des Betriebs. Die Schauräume für Ford und Suzuki werden erweitert. Im Untergeschoss wird eine Tiefgarage und ein geräumiger Ausstellungsraum mit direktem Zugang zum Parkplatz Ost errichtet. Zur Nutzung wertvoller Sonnenenergie wurde südseitig eine leistungsstarke Photovoltaikanlage installiert. Die Bauarbeiten konnten zum Jahresende abgeschlossen werden.
 
 ## 2017
 
