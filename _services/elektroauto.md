@@ -22,13 +22,13 @@ Elektrifizierte Autos sind umgangssprachlich Autos mit Hybridantrieb. Autos mit 
 
 1. Mild Hybrid (kleiner Akku, kein elektrisches Fahren möglich, Entlastung des Verbrennungsmotors beim Beschleunigen, dadurch sparsamer) Erhältlich im Suzuki Swift und Suzuki Ignis. In Kürze auch im Ford Focus, Fiesta, Transit und Kuga.
 2. Vollhybrid (größerer Akku, unter Umständen bei sanfter Fahrweise elektrisches Fahren mit geringer Geschwindigkeit möglich, starke Entlastung des Verbrennungsmotors, sparsamer vor allem im Stadtverkehr – zB Ford Mondeo Hybrid)
-3. Plug-In-Hybrid (großer Akku der auch per Steckdose geladen werden kann, rein elektrische Reichweite bis zu 60 km, Verbrauch und CO2 hängt zum Großteil davon ab, wie man die elektrische Reichweite nutzen kann) Elektroautos mit einem Verbrennungsmotor zur Vergrößerung der Reichweite (Range Extender) sind streng genommen auch Plug-In-Hybride. In Kürze im Ford Transit Custom und Opel Grandland X erhältlich.
+3. Plug-In-Hybrid (großer Akku der auch per Steckdose geladen werden kann, rein elektrische Reichweite bis zu 60 km, Verbrauch und CO2 hängt zum Großteil davon ab, wie man die elektrische Reichweite nutzen kann) Elektroautos mit einem Verbrennungsmotor zur Vergrößerung der Reichweite (Range Extender) sind streng genommen auch Plug-In-Hybride.
 
 ### Wann sind die ersten Elektroautos im Autohaus Schnitzhofer verfügbar?
 
-Jetzt. Der neue Opel Corsa-e, der Ford Mustang Mach-E und weitere Elektromodelle steht ab sofort bei uns zur Probefahrt bereit.
+Jetzt. Der neue Ford Mustang Mach-E und weitere Elektromodelle steht ab sofort bei uns zur Probefahrt bereit.
 
-Die ersten E-Autos waren bereits ab 2012 mit dem Opel Ampera und 2013 mit dem Ford Focus Electric verfügbar. Aufgrund der damals maximalen Reichweite von ca. 150 km bei einem Fahrzeugpreis von knapp 40.000 Euro war das Interesse an den Modellen mäßig. Der Focus Electric kam ab 2017 dank eines größeren Akkus auf eine Reichweite von bis zu 230 km.
+Die ersten E-Autos waren bereits ab 2013 mit dem Ford Focus Electric verfügbar. Aufgrund der damals maximalen Reichweite von ca. 150 km bei einem Fahrzeugpreis von knapp 40.000 Euro war das Interesse an den Modellen mäßig. Der Focus Electric kam ab 2017 dank eines größeren Akkus auf eine Reichweite von bis zu 230 km.
 
 Generell kann man sagen, dass die Vielfalt an Elektroautos in den kommenden Jahren stark zunehmen wird.
 
@@ -37,7 +37,7 @@ Generell kann man sagen, dass die Vielfalt an Elektroautos in den kommenden Jahr
 Der Akku ist das teuerste Bauteil bei Elektroautos. Je größer der Akku, desto teurer das Auto. Deshalb sind Elektroautos in der Anschaffung ca. 30% – 40% teurer als Autos mit Benzinmotor.
 ### Wie lange dauert das Aufladen eines solchen Fahrzeuges?
 
-Das kommt auf die Ladestation an. Zu Hause hat man in der Regel nur Ladestationen mit Wechselstrom (AC) zur Verfügung. Möchte man den komplett entleerten Akku eines Opel Corsa an einer 230V Haushaltssteckdose aufladen, dauert dies ca. 15 Stunden.
+Das kommt auf die Ladestation an. Zu Hause hat man in der Regel nur Ladestationen mit Wechselstrom (AC) zur Verfügung.
 
 Mit Starkstrom und einer Wallbox für zu Hause dauert eine komplette Ladung circa 8 Stunden. Beim Laden mit Wechselstrom ist zu beachten, das die oftmals angegebene maximale Ladeleistung von 22 kW (mit Wechselstrom) für die meisten Elektrofahrzeuge nichts bringt, da der Wechselstrom aus der Steckdose in Gleichstrom für die Batterie umgewandelt werden muss. Diese Umwandlung passiert mit dem ins Auto integrierten Ladesystem, das oftmals nur 4-10 kW laden kann.
 

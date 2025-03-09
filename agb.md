@@ -19,7 +19,7 @@ Klare Regeln, gute Partnerschaft. Auf dieser Seite finden Sie unsere allgemeinen
 
 ### AGB Neuwagenverkauf
 
-Unser Unternehmen tritt für die Marken Ford und Suzuki als direkter Verkäufer und für die Marken Opel und SsangYong als autorisierter Vermittler von Neuwagen auf und wird in den nachfolgenden AGB als Verkäufer/Vermittler bezeichnet. Nachstehende Allgemeine Geschäftsbedingungen (AGB) sind Vertragsinhalt.
+Unser Unternehmen tritt für die Marken Ford und Suzuki als direkter Verkäufer und für die Marke SsangYong als autorisierter Vermittler von Neuwagen auf und wird in den nachfolgenden AGB als Verkäufer/Vermittler bezeichnet. Nachstehende Allgemeine Geschäftsbedingungen (AGB) sind Vertragsinhalt.
 
 
 **I. Allgemeines:**

@@ -19,8 +19,6 @@ bestimmtes Fahrzeug? Wir beraten Sie gerne. Profitieren Sie von unserer langjäh
 ### Ihre Ansprechpartner
 {% include contact-person.html contact='Florian Posch' %}
 
-{% include contact-person.html contact='Josef Schnitzhofer sen.' %}
-
 ### Unsere Gebrauchtwagen bieten viele Vorteile:
 
 * Erstens: technisch komplett in unserer Meisterwerkstatt geprüft
@@ -28,7 +26,7 @@ bestimmtes Fahrzeug? Wir beraten Sie gerne. Profitieren Sie von unserer langjäh
 * Drittens: 12 Monate Gewährleistung
 * Viertens: auf Wunsch mit 12 oder 24 Monaten Komplettgarantie
 * Fünftens: europaweite Mobilitätsgarantie 24h am Tag, 7 Tage die Woche
-* bester Service, professionelle Reparatur in unserer Markenwerkstatt für Ford, Opel, SsangYong und Suzuki
+* bester Service, professionelle Reparatur in unserer Markenwerkstatt für Ford, SsangYong und Suzuki
 * Service und Reparatur aller Automarken
 
 ### Gebrauchtwagen Abtenau mit Garantie
@@ -62,7 +60,7 @@ Sie wollen ein Fahrzeug bei uns kaufen? Eine gute Entscheidung! Damit Sie nach I
 * auf Wunsch zusätzliche Garantieverlängerung um weitere 12 oder 24 Monate
 * 12 Monate Gewährleistung
 * Mobilitätsgarantie
-* bester Service, professionelle Reparatur in unserer Markenwerkstatt für Ford, Opel, SsangYong und Suzuki
+* bester Service, professionelle Reparatur in unserer Markenwerkstatt für Ford, SsangYong und Suzuki
 * Service und Reparatur aller Automarken
 
 ### Folgen Sie uns:

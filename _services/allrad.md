@@ -18,9 +18,6 @@ Im Autohaus Schnitzhofer haben Sie eine große Auswahl an Allrad Autos. Autos mi
 ### SUZUKI
 {% include cars.html brand='allrad_suzuki' %}
 
-### OPEL
-{% include cars.html brand='allrad_opel' %}
-
 ### Hier die Vorteile:
 1. Der wahrscheinlich wichtigste Vorteil: Statt zwei Rädern werden vier Räder angetrieben.
 2. Dadurch haben die Reifen mehr Haftung.

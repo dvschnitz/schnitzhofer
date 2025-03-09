@@ -40,5 +40,4 @@ Wir führen Alufelgen aller namhaften Hersteller zu besten Preisen.
   * Alufelgen von Alutec, ASA, ATS, Borbet, Brock, EtaBeta, Keskin, Motec, OZ, Platin, Rial, Ronal und Tomason
 * Alufelgen von Advanti Racing
 * Ford Original Leichtmetallfelgen
-* Opel Original Leichtmetallfelgen
 * Suzuki Original Leichtmetallfelgen

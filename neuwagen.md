@@ -5,7 +5,7 @@ description: Neuwagen Angebot Josef Schnitzhofer Abtenau
 bodyClass: page-cars
 ---
 
-In unserem Autohaus finden Sie die drei Marken Ford, Suzuki und Opel unter einem Dach.
+In unserem Autohaus finden Sie die zwei Marken Ford und Suzuki unter einem Dach.
 
 <a href="https://fahrzeuge.schnitzhofer.at" class="button">Unsere aktuellen Fahrzeuge</a>
 # Ford
@@ -29,19 +29,7 @@ Ignis Allrad, Swift Allrad, Jimny Allrad, Vitara Allrad, SX4 S-CROSS ALLRAD. Pro
 Wir sind Ihr Allradprofi in Abtenau.
 [schnitzhofer.suzuki.at](https://schnitzhofer.suzuki.at)
 
-# Opel
-### Die Zukunft gehört allen
-
-<img src="{{ 'images/photos/opel.jpg' | relative_url }}" alt="Opel"/>
-
-Großartige Modelle treffen auf großartiges Service. Persönliche Beratung und faire Preise. Informieren Sie sich in unserem Schauraum.
-
-Ob Elektrisch, als Benziner oder Diesel Opel bietet für alle Bedürfnisse den passenden Antrieb.
-
-[opel.schnitzhofer.at](https://opel.schnitzhofer.at)
 
 ### Ihre Ansprechpartner
 {% include contact-person.html contact='Florian Posch' %}
-
-{% include contact-person.html contact='Josef Schnitzhofer sen.' %}
 

@@ -8,17 +8,13 @@ layout: service
 
 ## Wir sorgen in ganz Europa für Ihre Mobilität.
 
-Mit der europaweiten Mobilitätsgarantie von Ford, Opel und Suzuki. Hier die Übersicht der Notrufnummern – diese sind 7 Tage die Woche 24h erreichbar.
+Mit der europaweiten Mobilitätsgarantie von Ford und Suzuki. Hier die Übersicht der Notrufnummern – diese sind 7 Tage die Woche 24h erreichbar.
 
 ### Ford ASSISTANCE (24h europaweite Mobilitätsgarantie)
 
 * in Österreich: <a href="tel:01206092424">01/20 609 24 24</a> – Wichtiger Hinweis: beim Anruf meldet sich ein automatischer Anrufbeantworter – hier per Ziffernblocktaste Ford Assistance auswählen!
 * aus ganz Europa: <a href="tel:00431206092424">0043 1 20 609 2424</a>
 
-### Opel Mobilitätsservice
-
-* in Österreich: <a href="tel:0800208380">0800 20 83 80</a>
-* aus ganz Europa: <a href="tel:004318028380">0043 1 802 83 80</a>
 
 ### Suzuki Mobilitätsservice
 * <a href="tel:0043662430400">0043 662 430 400</a>
