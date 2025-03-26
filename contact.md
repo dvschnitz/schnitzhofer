@@ -28,11 +28,11 @@ Fahren Sie von der der Westautobahn A1 auf die Tauernautobahn A10 Richtung Villa
 
 ### Von Süden – Villach kommend
 
-Fahren Sie auf der A10 der Tauernautobahn bis zur Ausfahrt Eben. Links abbiegen auf die B99 Richtung Lammertal. Fahren Sie bis Niedernfritz. Direkt in Niedernfritz biegen Sie rechts ab auf die B166 Richtung Lammertal/Abtenau. Folgen Sie der B166 ca. 15km. Bei der Kreuzung biegen Sie links ab auf die B162 Richtung Abtenau. Nach ca. 5km erreichen Sie das Ortsgebiet von Abtenau. Im Ortsgebiet sehen Sie auf der linken Seite eine Opel Werkstatt. Ca. 100m danach rechts abbiegen zum Parkplatz Ost. Direkt oberhalb finden Sie unseren Betrieb.
+Fahren Sie auf der A10 der Tauernautobahn bis zur Ausfahrt Eben. Links abbiegen auf die B99 Richtung Lammertal. Fahren Sie bis Niedernfritz. Direkt in Niedernfritz biegen Sie rechts ab auf die B166 Richtung Lammertal/Abtenau. Folgen Sie der B166 ca. 15km. Bei der Kreuzung biegen Sie links ab auf die B162 Richtung Abtenau. Nach ca. 5km erreichen Sie das Ortsgebiet von Abtenau. Nach ca. 400m rechts abbiegen zum Parkplatz Ost. Direkt oberhalb finden Sie unseren Betrieb.
 
 ### Von Bad Ischl/Salzkammergut kommend
 
-Fahren Sie bis Gosau, in Gosau abbiegen Richtung Pass Gschütt/Abtenau. Fahren Sie über der B166 entlang den Pass Gschütt weiter Richtung Abtenau. Nach ca. 13km an der Kreuzung halten Sie sich rechts auf B162. Nach ca. 5km erreichen Sie das Ortsgebiet von Abtenau. Im Ortsgebiet sehen Sie auf der linken Seite eine Opel Werkstatt. Ca. 100m danach rechts abbiegen zum Parkplatz Ost. Direkt oberhalb finden Sie unseren Betrieb.
+Fahren Sie bis Gosau, in Gosau abbiegen Richtung Pass Gschütt/Abtenau. Fahren Sie über der B166 entlang den Pass Gschütt weiter Richtung Abtenau. Nach ca. 13km an der Kreuzung halten Sie sich rechts auf B162. Nach ca. 5km erreichen Sie das Ortsgebiet von Abtenau. Nach ca. 400m rechts abbiegen zum Parkplatz Ost. Direkt oberhalb finden Sie unseren Betrieb.
 
 ### Navigationssystem?
 
