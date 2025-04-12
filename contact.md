@@ -2,7 +2,6 @@
 title: Kontakt
 layout: contact
 description: Kontakt
-intro_image: 'images/photos/contact.jpg'
 ---
 
 ## Öffnungszeiten
