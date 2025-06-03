@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Jetzt auch als ALLRAD: der neue Suzuki Swift"
+title: Der Suzuki Swift. Allrad oder Frontantrieb?
 description: Den Kleinwagen von Suzuki gibt's ab sofort wieder mit Allradantrieb.
 date: 2024-09-17T08:32:52.819Z
 thumbnail: /assets/uploads/die-neueste-generation-des-kleinwagenstars-suzuki-swift-ist-ab-sofort-auch-mit-bewährtem-suzuki-allgrip-auto-allradsystem-erhältlich-mittel-.jpg
 ---
-Ab sofort gibt es die neueste Generation des beliebten SWIFT optional auch mit dem bewährten Suzuki ALLGRIP AUTO Allradsystem. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kbwigEaMq2s?si=l3kRreL-V2nUXZ7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+In diesem Video zeigen wir euch den Suzuki Swift ganz genau:
+
+1. den Unterschied zwischen Allrad und Frontantrieb
+2. die beiden Austattungsvarianten flash und shine
+3. den Innenraum
+4. das Hybridsystem
+
+und vieles mehr. 
 
 Das Allradsystem ALLGRIP AUTO schaltet sich automatisch hinzu, sobald es einen Verlust der Traktion an der Vorderachse registriert. In diesem Fall wird über eine Viskokupplung Drehmoment an die Hinterräder übertragen, um auf schneebedeckten Straßen oder rutschigem Untergrund für zusätzliche Traktion zu sorgen.
 
