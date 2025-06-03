@@ -11,7 +11,7 @@ thumbnail: /assets/uploads/2025-ford-capri-elektro.png
 
 ![Ford Puma Elektro Gen-E](/assets/uploads/2025-puma-elektro.jpg)
 
-Der Puma Gen-E ist ein kompaktes Elektro-SUV mit einem 43-kWh-Akku, der eine Reichweite von bis zu 376 km ermöglicht. Mit einer Leistung von 168 PS beschleunigt er in 8 Sekunden auf 100 km/h. Geladen wird mit bis zu 100 kW DC-Schnellladung, was eine Aufladung von 10 auf 80 % in etwa 24 Minuten ermöglicht. Produziert wird der Puma Gen-E im rumänischen Werk Craiova. 
+Der Puma Gen-E ist ein kompaktes Elektro-SUV mit einem 43-kWh-Akku, der eine Reichweite von bis zu 376 km ermöglicht. Mit einer Leistung von 168 PS beschleunigt er in 8 Sekunden auf 100 km/h. Geladen wird mit bis zu 100 kW DC-Schnellladung, was eine Aufladung von 10 auf 80 % in etwa 24 Minuten ermöglicht. Produziert wird der Puma Gen-E im rumänischen Werk Craiova. Der Ford Puma Gen-E ist das sparsamste Elektrofahrzeug seiner Klasse und konnte im Test der Zeitschrift Alles Auto den Testsieg gegen BYD, Citroen und Fiat erreichen.
 
 # Ford Capri
 
