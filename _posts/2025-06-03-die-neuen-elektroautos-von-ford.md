@@ -23,6 +23,6 @@ Der Ford Capri kehrt als vollelektrisches SUV-Coupé zurück und kombiniert spor
 
 ![Ford Explorer Elektroauto](/assets/uploads/2025-ford-explorer.png)
 
-Der Ford Explorer ist ein mittelgroßes Elektro-SUV mit einer Reichweite von bis zu 602 km. Er bietet Platz für bis zu sieben Personen und verfügt über ein Kofferraumvolumen von bis zu 1.400 Litern. Die Preise beginnen bei 32.900 Euro (27.400 netto), mit Leistungsstufen von 170 bis 340 PS. Der Explorer ist auch als Allrad erhältlich und bietet fortschrittliche Assistenzsysteme wie automatisches Ein- und Ausparken sowie einen Spurwechselassistenten.
+Der Ford Explorer ist ein mittelgroßes Elektro-SUV mit einer Reichweite von bis zu 602 km. Die Preise beginnen bei 32.900 Euro (27.400 netto), mit Leistungsstufen von 170 bis 340 PS. Der Explorer ist auch als Allrad erhältlich und bietet fortschrittliche Assistenzsysteme wie automatisches Ein- und Ausparken sowie einen Spurwechselassistenten.
 
 Mit diesen neuen Modellen unterstreicht Ford sein Engagement in der Elektromobilität und bietet für verschiedene Bedürfnisse passende Fahrzeuge an.
