@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Der Suzuki Swift. Allrad oder Frontantrieb?
-description: Den Kleinwagen von Suzuki gibt's ab sofort wieder mit Allradantrieb.
+description: IN UNSEREM VIDEO ZEIGEN WIR EUCH DEN SWIFT GANZ GENAU.
 date: 2024-09-17T08:32:52.819Z
 thumbnail: /assets/uploads/die-neueste-generation-des-kleinwagenstars-suzuki-swift-ist-ab-sofort-auch-mit-bewährtem-suzuki-allgrip-auto-allradsystem-erhältlich-mittel-.jpg
 ---
