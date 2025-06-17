@@ -11,7 +11,13 @@ thumbnail: /assets/uploads/2025-suzuki-e-vitara.jpg
 
 Der neue vollelektrische e Vitara vereint einen großzügigen und flexiblen Innenraum mit höchster Effizienz und bekannten Vorteilen eines Vitara. Elektrischer Allradantrieb, zwei verschiedene Batteriegrößen und erhöhte Bodenfreiheit machen ihn zum verlässlichen Begleiter.
 
-![](/assets/uploads/2025-e-vitara-innen.jpg "Flexibler Innenraum.")
+![](/assets/uploads/2025-e-vitara-innen.jpg "Flexibler Innenraum mit einfacher Bedienung.")
+
+
+
+Die **innovative Antriebs-Technologie** des neuen Suzuki e VITARA hat´s in sich: Sie stellt den E-Motoren saubere **elektrische Energie für kraftvolle Beschleunigung** und **lupenreine Performance** zur Verfügung.
+
+Im Interview verraten die **Suzuki Ingenieure Takahito Ito** und **Daichi Fukushima**, welch **ausgeklügelte Technik** im exklusiven BEV von Suzuki zum Einsatz kommt.
 
 Hier das Video:
 
