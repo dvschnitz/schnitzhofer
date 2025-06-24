@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Der neue Ford Ranger.
-description: Jetzt bei uns zur Probefahrt bereit.
+title: Die Ford Nutzfahrzeuge ohne NoVA. Schon ab 15.690,- exkl. MwSt.
+description: Ob Kastenwagen, Pritsche oder Pick-Up. Ob Diesel, Elektro oder
+  PHEV. Viele Modelle sind kurzfristig verfügbar und ab Juli 2025 wieder ohne
+  NoVA.
 date: 2023-04-25T13:09:52.783Z
 thumbnail: /assets/uploads/2023-ranger.jpg
 ---
-Wir freuen uns, euch den neuen Ranger präsentieren zu dürfen.
+Es hat lange gedauert, aber jetzt ist die NoVA für leichte Nutzfahrzeuge (N1) bis zu einem höchstzulässigem Gesamtgewicht bis 3,5t wieder Geschichte. Das macht die Transporter für alle, die tagtäglich Material und Mitarbeiter befördern, um einiges günstiger.
 
-![Ranger](/assets/uploads/2023-ranger.jpg "Der Ford Ranger im Autohaus Schnitzhofer in Abtenau.")
+Einzige Ausnahme sind die Pick-Ups. Bei denen sich die NoVA Befreiung auf eine lt. Gesetzestext "einfache Ausstattung" beschränkt. Da sind wir wieder in Österreich mit seinen schwammigen Formulierungen. Konkretere Details sollen in Kürze folgen. Wer auf Nummer sicher gehen möchte: den Ford Ranger gibt es jetzt  auch als Plug-In-Hybrid mit 3,5t Anhängelast - und bei ihm fällt dank des CO2 Ausstoßes von 70g pro Kilometer definitv keine NoVA an.
 
-Hier das Video dazu:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RzmT1a2gyt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Bei Fragen stehen wir euch gerne zur Verfügung.
