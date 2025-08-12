@@ -49,14 +49,8 @@ Bahnhof Golling und im Umkreis von 20km: Die Zustellung kostet € 30,- und ist 
 ## Kindersitze
 Bitte kontaktieren Sie uns, wenn Sie Kindersitze benötigen.
 
-## Versicherungsschutz
-Unsere Mietpreise sind inklusive Vollkasko Versicherung mit einem Selbstbehalt von € 1.000,- pro Schadensfall. Eine Haftungsreduzierung auf € 300,- Selbstbehalt kostet € 10,- pro Tag.
-
 ## Reinigungskosten
 Bei stark verschmutzten Fahrzeugen und Innenräumen verrechnen wir den benötigten Arbeitsaufwand.
-
-## Wochenende
-Freitag 13.00 Uhr bis Montag 8.00 Uhr
 
 ## Mindestalter
 Das Mindestalter für die Vermietung beträgt 21 Jahre.
