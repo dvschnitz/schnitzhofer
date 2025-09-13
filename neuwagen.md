@@ -7,7 +7,7 @@ bodyClass: page-cars
 
 In unserem Autohaus finden Sie die zwei Marken Ford und Suzuki unter einem Dach.
 
-<a href="https://fahrzeuge.schnitzhofer.at" class="button">Unsere aktuellen Fahrzeuge</a>
+<a href="https://josef-schnitzhofer-gmbh.motornetzwerk.at/fahrzeuge/?display=iframe2#" target="_blank" class="button">Unsere aktuellen Fahrzeuge</a>
 # Ford
 ### Ihr Partner für Ford PKW und Ford Nutzfahrzeuge seit 1984.
 
