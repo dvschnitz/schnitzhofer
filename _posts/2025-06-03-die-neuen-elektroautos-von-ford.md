@@ -26,3 +26,5 @@ Der Ford Capri kehrt als vollelektrisches SUV-Coupé zurück und kombiniert spor
 Der Ford Explorer ist ein mittelgroßes Elektro-SUV mit einer Reichweite von bis zu 602 km. Die Preise beginnen bei 32.900 Euro (27.400 netto), mit Leistungsstufen von 170 bis 340 PS. Der Explorer ist auch als Allrad erhältlich und bietet fortschrittliche Assistenzsysteme wie automatisches Ein- und Ausparken sowie einen Spurwechselassistenten.
 
 Mit diesen neuen Modellen unterstreicht Ford sein Engagement in der Elektromobilität und bietet für verschiedene Bedürfnisse passende Fahrzeuge an.
+
+## **[Mehr erfahren](https://www.ford-schnitzhofer-abtenau.at/aktionen/go-electric-vollelektrische-pkw)**

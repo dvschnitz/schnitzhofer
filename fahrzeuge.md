@@ -13,7 +13,7 @@ Wir haben stets eine große Auswahl an Gebrauchtwagen, Vorführwagen, Neuwagen, 
 bestimmtes Fahrzeug? Wir beraten Sie gerne. Profitieren Sie von unserer langjährigen Erfahrung. Außerdem bieten wir für Ihren Gebrauchtwagen die attraktive Gebrauchtwagengarantie mit 12 oder 24 Monaten Laufzeit.
 
 
-<a href="https://fahrzeuge.schnitzhofer.at" class="button">Unsere aktuellen Fahrzeuge</a>
+<a href="https://josef-schnitzhofer-gmbh.motornetzwerk.at/fahrzeuge/?display=iframe2#" target="_blank" class="button">Unsere aktuellen Fahrzeuge</a>
 
 
 ### Ihre Ansprechpartner
