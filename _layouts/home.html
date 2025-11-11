@@ -71,28 +71,13 @@ bodyClass: "page-home"
   </div>
 </div>
 
-<div class="container">
-  <h2 class="title">Fahrzeug&shy;angebot</h2>
-  <p class="text-intro">Geprüft und mit Garantie. Neu und gebraucht.</p>
-  <div>
-    <iframe src="https://fahrzeuge.schnitzhofer.at/carousel/?popup=1"
-      name="Gebrauchtwagen"
-      class="iframe-popup">
-      <p>Ihr Browser kann leider keine eingebetteten Frames anzeigen:
-      Sie können die eingebettete Seite über den folgenden Verweis aufrufen:
-      <a href="fahrzeuge.schnitzhofer.at">SELFHTML</a>
-      </p>
-    </iframe>
-  </div>
-</div>
-
 {% if site.data.features %}
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
 
       {% for feature in site.data.features %}
-      <a class="col-12 col-md-6 col-lg-4 mb-2" href="{{feature.link | relative_url}}">
+      <a class="col-12 col-md-6 col-lg-3 mb-2" href="{{feature.link | relative_url}}">
           <div class="feature">
             {% if feature.image %}
             <div class="feature-image" style="width: {{ feature.image.width }}px; height: {{ feature.image.height }}px;">

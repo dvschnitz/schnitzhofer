@@ -16,5 +16,23 @@
       "height": 100
     },
     "link":"/neuwagen#suzuki"
+  },
+  {
+    "description": "Rent A Car",
+    "image": {
+      "url": "images/logo/rent.jpg",
+      "width": 130,
+      "height": 48
+    },
+    "link":"/services/mietwagen"
+  },
+  {
+    "description": "Karosseriezentrum",
+    "image": {
+      "url": "images/logo/karrosserie.png",
+      "width": 150,
+      "height": 33
+    },
+    "link":"/services/karosseriezentrum"
   }
 ]
