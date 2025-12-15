@@ -8,6 +8,8 @@ description: Ein riesengroßes Dankeschön an unseren Herbert, der nächstes Jah
 date: 2025-12-15T09:49:06.879Z
 thumbnail: /assets/uploads/schnitzhofer-abtenau-team.jpg
 ---
+![](/assets/uploads/schnitzhofer-abtenau-team.jpg "Herbert, Sigi und Josef")
+
 Ein riesengroßes Dankeschön hat sich unser Herbert Ramsauer verdient. Nach über 40 Jahren bei uns im Betrieb beginnt für Herbert 2026 mit der Pension ein neuer Lebensabschnitt. Danke für deine Loyalität, deine Erfahrungen, deinen unermüdlichen Einsatz, deine Verlässlichkeit und deinen Teamgeist in den letzten Jahrzehnten!
 
 Herberts Nachfolger Siegfried Beeskow hat im September in Berlin seine Familie und seine Sachen gepackt, ist nach Rußbach gezogen und hat mit 1. Oktober bei uns angefangen.
