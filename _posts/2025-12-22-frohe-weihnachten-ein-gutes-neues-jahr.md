@@ -1,25 +1,32 @@
 ---
 layout: post
-title: Frohe Weihnachten & ein gutes neues Jahr!
-description: Öffnungszeiten Feiertage 2025/25 - Wir wünschen euch allen frohe
-  Weihnachten, entspannte Feiertage und ein gesundes neues Jahr.
+title: Der neue Suzuki eVitara mit Allradantrieb ist da!
+description: Ab sofort bei uns zum Besichtigen und Probe fahren bereit.
 date: 2025-12-22T08:34:57.357Z
-thumbnail: /assets/uploads/2025-mach-e-winter.jpg
+thumbnail: /assets/uploads/evitara-2026-suzuki.png
 ---
-Für euer Vertrauen und eure Treue im vergangenen Jahr möchten wir uns ganz besonders bedanken. D A N K E !
+# Der neue, vollelektrische Suzuki e VITARA ist da.
+Zur Premiere mit € 3.600,- Preisvorteil.
+Jetzt Probe fahren!
 
-Euch, euren Liebsten und Familien wünsche ich eine ruhige Adventszeit, ein frohes Weihnachtsfest und für das neue Jahr Glück, Gesundheit, Hoffnung und Freude. 
+
+Ein großer Schritt für Suzuki – das erste vollelektrische Modell ab sofort bei uns im Autohaus in Abtenau zum Probe fahren und Besichtigen für euch da!
+
+
+Dieses Fahrzeug begeistert. Fahrkomfort, moderne Technik und das typisch zuverlässige Suzuki-Gefühl vereinen sich hier zu einem rundum überzeugenden Elektro-SUV. Der e-Vitara fährt nicht nur leise und effizient, sondern bietet auch überraschend viel Kraft und ein angenehm dynamisches Fahrverhalten. Ausstattung, Platzangebot und intuitive Bedienung machen ihn zum idealen Begleiter für Alltag und Freizeit.
+
+
+•	mit Frontantrieb ab € 29.990,-
+•	als Allrad in der Ausstattungsvariante shine um € 36.990,-
+•	100% vorsteuerabzugsfähig und kein Sachbezug
+•	100% geländetauglich dank Allgrip e Allradsystem
+•	Robuste Lithium-Eisenphosphat-Batterietechnologie (LFP)
+
+>
+> Der Akku für die Probefahrt ist schon geladen und wir freuen uns, euch Suzukis erstes Elektroauto ab sofort bei uns im Autohaus vorstellen zu dürfen! 
 
 
 
-Hier ein kleiner Überblick über unsere Öffnungszeiten während der Feiertage:
 
-Wir sind am 22. und 23. Dezember sowie am 29. und 30. Dezember für euch da.
 
-Geschlossen haben wir:
-
-am 24.12. und von 31.12.2025 bis 6.1.2026
-
-Ab 7. Jänner haben wir wieder geöffnet.
-
-![](/assets/uploads/2025-mach-e-winter.jpg)
+![](/assets/uploads/evitara-2026-suzuki.png)
