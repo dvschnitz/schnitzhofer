@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wir suchen Verstärkung: KFZ-Techniker:in"
-description: Wir haben ab Sommer 2025 einen Platz für dich in unserem Werkstatt Team frei.
+description: Wir haben einen Platz für dich frei.
 date: 2025-06-24T08:17:11.847Z
 thumbnail: /assets/uploads/web-61.jpg
 ---
