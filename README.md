@@ -104,3 +104,7 @@ I've been building open source themes for all the main static site generators fo
 
 ## Ruby versions
 Ruby 3.2.2 seems to work well installed with rbenv
+* `rbenv install 3.2.2`
+* `rbenv global 3.2.2`
+* `rbenv rehash`
+* `bundle install`
