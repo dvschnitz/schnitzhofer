@@ -11,8 +11,6 @@ thumbnail: /assets/uploads/smile.png
 
 Du willst nicht nur Autos verkaufen, sondern in einem familiären Autohaus Verantwortung übernehmen und wirklich etwas bewegen? Dann freuen wir uns darauf, dich kennenzulernen.
 
-Du interessierst dich für Autos, arbeitest gerne mit Menschen und möchtest mehr als nur verkaufen? Dann bist du bei uns genau richtig!
-
 Wir sind ein familiengeführtes Autohaus und suchen zur Verstärkung unseres Teams einen engagierten Automobil-Allrounder mit Verkaufstalent (m/w/d) für unsere Marken Ford und Suzuki sowie Gebrauchtwagen.
 
 ## Deine Aufgaben
@@ -35,8 +33,8 @@ Wir sind ein familiengeführtes Autohaus und suchen zur Verstärkung unseres Tea
 * hohes Qualitätsbewusstsein
 * Gute EDV-Kenntnisse
 * Führerschein Klasse B
-* Erfahrung im Automobilbereich ist von Vorteil, aber keine Voraussetzung
-* Auch motivierte Quereinsteiger sind herzlich willkommen
+* Erfahrung im Fahrzeugverkauf ist keine Voraussetzung, denn...
+* ...auch motivierte Quereinsteiger sind herzlich willkommen
 
 ## Das erwartet dich bei uns
 
@@ -46,6 +44,7 @@ Wir sind ein familiengeführtes Autohaus und suchen zur Verstärkung unseres Tea
 * Spannende Marken wie Ford und Suzuki
 * Leistungsgerechte Bezahlung mit Fixum und zusätzlicher erfolgsabhängiger Vergütung
 * Ein familiäres Arbeitsumfeld mit kurzen Entscheidungswegen
+* Ein Monatsbruttogehalt ab € 3.200,- mit Bereitschaft zur Überzahlung je nach Qualifikation und Erfahrung
 * Dienstwagen
 * Ein Team, in dem Zusammenhalt und Handschlagqualität zählen
 
