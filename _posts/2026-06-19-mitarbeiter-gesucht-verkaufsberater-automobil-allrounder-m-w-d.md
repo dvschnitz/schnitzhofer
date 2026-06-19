@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Mitarbeiter gesucht: Verkaufsberater & Automobil-Allrounder (m/w/d)"
-description: Du interessierst dich für Autos, arbeitest gerne mit Menschen und
-  möchtest mehr als nur verkaufen? Dann bist du bei uns genau richtig!
+description: Du willst nicht nur Autos verkaufen, sondern in einem familiären
+  Autohaus Verantwortung übernehmen und wirklich etwas bewegen? Dann freuen wir
+  uns darauf, dich kennenzulernen.
 date: 2026-06-19T12:08:14.713Z
 thumbnail: /assets/uploads/smile.png
 ---
 # Automobil-Allrounder mit Verkaufstalent (m/w/d)
+
+Du willst nicht nur Autos verkaufen, sondern in einem familiären Autohaus Verantwortung übernehmen und wirklich etwas bewegen? Dann freuen wir uns darauf, dich kennenzulernen.
 
 Du interessierst dich für Autos, arbeitest gerne mit Menschen und möchtest mehr als nur verkaufen? Dann bist du bei uns genau richtig!
 
@@ -46,11 +49,7 @@ Wir sind ein familiengeführtes Autohaus und suchen zur Verstärkung unseres Tea
 * Dienstwagen
 * Ein Team, in dem Zusammenhalt und Handschlagqualität zählen
 
-
-
 ### Du möchtest nicht nur verkaufen, sondern Teil eines starken Teams werden und aktiv zum Erfolg unseres Autohauses beitragen? Dann freuen wir uns darauf, dich kennenzulernen!
-
-
 
 > Melde dich gerne bei mir. Telefonisch unter [06243/2298-17 ](tel:+436243229817) oder per E-Mail an [josef@schnitzhofer.at](mailto:josef@schnitzhofer.at)
 >
