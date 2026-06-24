@@ -44,7 +44,7 @@ Wir sind ein familiengeführtes Autohaus und suchen zur Verstärkung unseres Tea
 * Spannende Marken wie Ford und Suzuki
 * Leistungsgerechte Bezahlung mit Fixum und zusätzlicher erfolgsabhängiger Vergütung
 * Ein familiäres Arbeitsumfeld mit kurzen Entscheidungswegen
-* Ein Monatsbruttogehalt ab € 3.200,- mit Bereitschaft zur Überzahlung je nach Qualifikation und Erfahrung
+* Ein Monatsbruttogehalt ab € 3.000,- (Das tatsächliche Gehalt orientiert sich an deiner Qualifikation und Berufserfahrung und wird in einem persönlichen Gespräch vereinbart.)
 * Dienstwagen
 * Ein Team, in dem Zusammenhalt und Handschlagqualität zählen
 
