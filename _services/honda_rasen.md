@@ -21,4 +21,5 @@ Weltraumtechnologie in Ihrem Garten: Mit den extrem laufruhigen, robusten und ve
 [ZUR MODELLÜBERSICHT HONDA GARTENGERÄTE](https://www.honda.at/lawn-and-garden.html)
 
 ### Ihr Ansprechpartner
+{% include contact-person.html contact='Josef Schnitzhofer' %}
 {% include contact-person.html contact='Florian Posch' %}

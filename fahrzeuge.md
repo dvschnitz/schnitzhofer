@@ -17,6 +17,7 @@ bestimmtes Fahrzeug? Wir beraten Sie gerne. Profitieren Sie von unserer langjäh
 
 
 ### Ihre Ansprechpartner
+{% include contact-person.html contact='Josef Schnitzhofer' %}
 {% include contact-person.html contact='Florian Posch' %}
 
 ### Unsere Gebrauchtwagen bieten viele Vorteile:
