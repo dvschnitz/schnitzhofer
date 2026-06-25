@@ -29,4 +29,4 @@ Ob Sie erst nach Feierabend Zeit haben oder nur sehr früh am Morgen: Wir haben 
 Klimaanlagen Service, AdBlue Füllstation, Pickerlüberprüfung, Ölwechsel, Bremsenreparatur, Fahrwerk, Motorreparatur, Getriebeinstandsetzungen, Elektronik, Diagnose, Einbau
 
 ### Ihr Ansprechpartner
-{% include contact-person.html contact='Herbert Ramsauer' %}
+{% include contact-person.html contact='Siegfried Beeskow' %}

@@ -22,6 +22,7 @@ Sie möchten es gerne bequemer? Gegen Aufpreis bringen wir Ihnen den Mietwagen b
 | **ELEKTRO&shy;FAHRZEUG** <br> <img src="{{ 'images/cars/leih-mustang.jpg' | relative_url }}" alt="Swift"/> | Ford Mustang Mach E, Suzuki A-Cross PHEV | **ab € 79,-** |
 
 ## Ihre Ansprechpartnerin für Mietwagen
+{% include contact-person.html contact='Josef Schnitzhofer' %}
 {% include contact-person.html contact='Florian Posch' %}
 
 ## Unsere Mietwagen sind inklusive

@@ -31,5 +31,6 @@ Wir sind Ihr Allradprofi in Abtenau.
 
 
 ### Ihre Ansprechpartner
+{% include contact-person.html contact='Josef Schnitzhofer' %}
 {% include contact-person.html contact='Florian Posch' %}
 
