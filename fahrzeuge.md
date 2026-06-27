@@ -7,13 +7,12 @@ bodyClass: page-cars
 
 ## Fahrzeuge
 
-<img src="{{ 'images/photos/gebraucht.jpg' | relative_url }}" alt="Gebrauchtwagen"/>
-
 Wir haben stets eine große Auswahl an Gebrauchtwagen, Vorführwagen, Neuwagen, und Jahreswagen in jeder Preisklasse. Sie suchen ein
 bestimmtes Fahrzeug? Wir beraten Sie gerne. Profitieren Sie von unserer langjährigen Erfahrung. Außerdem bieten wir für Ihren Gebrauchtwagen die attraktive Gebrauchtwagengarantie mit 12 oder 24 Monaten Laufzeit.
 
 
-<a href="https://josef-schnitzhofer-gmbh.motornetzwerk.at/fahrzeuge/?display=iframe2#" target="_blank" class="button">Unsere aktuellen Fahrzeuge</a>
+<widget-lite></widget-lite>
+<script src="https://widget-lite.willhaben.at/production/19516842/loader.js"></script>
 
 
 ### Ihre Ansprechpartner
