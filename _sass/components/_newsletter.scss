@@ -1,0 +1,14 @@
+.newsletter {
+  .newsletter-label {
+    min-width: 120px;
+  }
+
+  .newsletter-input-text {
+    border: 0;
+    border-bottom: 1px solid $primary;
+  }
+
+  .newsletter-container-field {
+     margin-bottom: 16px;
+  }
+}
