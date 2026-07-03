@@ -108,3 +108,13 @@ Ruby 3.2.2 seems to work well installed with rbenv
 * `rbenv global 3.2.2`
 * `rbenv rehash`
 * `bundle install`
+
+## Ruby version Mac 2026 based on https://jekyllrb.com/docs/installation/macos/
+* `brew install chruby ruby-install`
+* `ruby-install ruby 3.2.3`
+* `echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc`
+* `echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc`
+* `echo "chruby ruby-3.2.3" >> ~/.zshrc # run 'chruby' to see actual version`
+* `gem install jekyll`
+* `bundle install`
+* `bundle exec jekyll serve`
