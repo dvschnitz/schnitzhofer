@@ -1,0 +1,11 @@
+---
+layout: post
+title: Vollelektrischer Transporter oder Bus mit Allrad.
+description: Der neue Ford Custom mit elektrisch Allradantrieb steht ab sofort
+  bei uns zur Probefahrt bereit.
+date: 2026-07-24T13:49:45.283Z
+thumbnail: /assets/uploads/img_4773.jpeg
+---
+Neben der Dieselvariante gibt es jetzt auch die volle elektrische Variante mit Allradantrieb .
+
+Der extrem erfolgreich in Transit Custom Modell. Familie bietet jetzt maximale Flexibilität für jeden Einsatzzweck.
