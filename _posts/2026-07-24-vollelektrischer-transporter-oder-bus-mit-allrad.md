@@ -6,7 +6,7 @@ description: Der neue, vollelektrische Ford Custom mit Allradantrieb steht ab
 date: 2026-07-24T13:49:45.283Z
 thumbnail: /assets/uploads/img_4773.jpeg
 ---
-Neben der Dieselvariante gibt es jetzt auch die volle elektrische Variante mit Allradantrieb .
+Neben der Dieselvariante gibt es jetzt auch die vollelektrische Variante mit Allradantrieb .
 
 Der extrem erfolgreich in Transit Custom Modell. Familie bietet jetzt maximale Flexibilität für jeden Einsatzzweck.
 
